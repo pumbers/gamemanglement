@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Game Manglement"
+theme = "robust-custom"
+
+[params]
+  description = "Thoughts and stuff for tabletop gaming"
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lato" # Optional, Override logo font.
+
+[params.author]
+  thumbnail = "images/author.png"
+  name = "Paul Umbers"
+  description = "Board and tabletop RPG gamer for over 30 years, general mis-manager of my time and effort in writing for RPGs, so here's some thoughts and stuff."
+  facebook = "https://www.facebook.com/paul.umbers"
+  twitter = "https://twitter.com/dim0627"
+  mewe = "https://mewe.com/profile/5bbd11ab2ee15f2bb8b1e7f0"
+  #google = "https://plus.google.com/u/0/+PaulUmbers"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
