@@ -2,7 +2,7 @@
 title: "Starbase 221"
 date: 2018-10-17T21:01:54-06:00
 thumbnail: "images/starbase_221.jpg"
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur ipsum nec porttitor gravida. Nam vulputate at lectus vitae placerat. Quisque in tellus a lacus egestas lobortis. Cras eu nisi eget velit dictum venenatis. Quisque efficitur nunc ullamcorper nisl vehicula, eget pellentesque ligula dapibus. Vivamus maximus ornare commodo. Aliquam finibus convallis ipsum, vel iaculis est gravida quis. Aliquam ut consequat lorem.

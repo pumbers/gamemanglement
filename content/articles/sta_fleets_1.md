@@ -2,7 +2,7 @@
 title: "Star Trek: Fleets, Part 1"
 date: 2018-10-18T21:29:54-06:00
 thumbnail: "images/federation_fleet.jpg"
-draft: true
+draft: false
 ---
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur ipsum nec porttitor gravida. Nam vulputate at lectus vitae placerat. Quisque in tellus a lacus egestas lobortis. Cras eu nisi eget velit dictum venenatis. Quisque efficitur nunc ullamcorper nisl vehicula, eget pellentesque ligula dapibus. Vivamus maximus ornare commodo. Aliquam finibus convallis ipsum, vel iaculis est gravida quis. Aliquam ut consequat lorem._
