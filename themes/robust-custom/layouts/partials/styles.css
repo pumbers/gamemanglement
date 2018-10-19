@@ -369,11 +369,12 @@ article.sn>.article-body p {
 article.sn>.article-body strong,
 article.sn>.article-body em {
     font-style: normal;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 article.sn>.article-body em {
-    background-color: #c9e4ca;
+    font-style: italic;
+    font-weight: 600;
 }
 
 article.sn>.article-body code,
