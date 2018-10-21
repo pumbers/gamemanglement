@@ -1,7 +1,9 @@
 ---
-title: "Star Trek: Fleets, Part 1"
+title: "Star Trek: Fleets, Part One"
 date: 2018-10-18T21:29:54-06:00
 thumbnail: "images/federation_fleet.jpg"
+categories: ["Role Playing Games"]
+tags: ["Star Trek Adventures", "Modiphius"]
 draft: false
 ---
 

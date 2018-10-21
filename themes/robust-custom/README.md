@@ -1,30 +1,3 @@
-# What is this.
-
-This is the grid based theme for Hugo.
-
-[Hugo :: A fast and modern static website engine](https://gohugo.io/)
-
-## PC View
-
-![screenshot](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/master/images/screenshot.png)
-
-## SP View(Responsive)
-
-![screenshot](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/master/images/responsive.png)
-
-# Features
-
-* [Accelerated Mobile Pages Project](https://www.ampproject.org/) a.k.a AMP supported
-* Responsive design
-* Google Analytics
-* Thumbnail
-* Share button
-* Structured data(Article and Breadcrumb)
-* Twitter cards
-* OGP
-* Disqus
-* Syntax Highlight
-
 ## Installation
 
 ```

@@ -20,4 +20,4 @@ theme = "robust-custom"
   #google = "https://plus.google.com/u/0/+PaulUmbers"
 
 [outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+page = [ "HTML"] # if you want AMP enable.

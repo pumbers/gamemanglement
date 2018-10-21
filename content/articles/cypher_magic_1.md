@@ -1,13 +1,11 @@
 ---
-title: "Starbase 185"
-date: 2018-10-17T21:01:54-06:00
-thumbnail: "/images/starbase_185.jpg"
+title: "Cypher System: Elemental Magic, Part One"
+date: 2018-10-17T21:25:55-06:00
+thumbnail: "images/cypher_magic.png"
+categories: ["Role Playing Games"]
+tags: ["Cypher System", "Monte Cook Games"]
 draft: false
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur ipsum nec porttitor gravida. Nam vulputate at lectus vitae placerat. Quisque in tellus a lacus egestas lobortis. Cras eu nisi eget velit dictum venenatis. Quisque efficitur nunc ullamcorper nisl vehicula, eget pellentesque ligula dapibus. Vivamus maximus ornare commodo. Aliquam finibus convallis ipsum, vel iaculis est gravida quis. Aliquam ut consequat lorem.
-
-Vivamus in dui efficitur, finibus ligula ac, consequat erat. In tempor eros et arcu dapibus consectetur at quis eros. Vivamus imperdiet ante mollis porta ultricies. Donec bibendum aliquam libero vel mattis. Etiam mattis eget lacus tincidunt fringilla. Etiam efficitur purus a accumsan semper. Sed consequat neque in elit scelerisque facilisis. Aenean justo urna, convallis vitae massa vitae, dapibus fringilla diam. Fusce a enim eu tortor vulputate auctor vel vel nisl.
 
 Sed vitae velit non lorem rutrum venenatis a vitae lacus. Phasellus interdum, justo vitae malesuada elementum, nunc ante vulputate purus, nec mollis odio ex quis arcu. Proin at justo felis. Duis faucibus aliquam commodo. Mauris interdum sapien in nisi dictum luctus. Ut nunc tortor, fermentum in mollis sit amet, feugiat vitae nisl. Aliquam sodales odio et risus ultrices, porta sodales dolor tristique. Ut bibendum sollicitudin magna, non dapibus ipsum convallis bibendum. Nullam lacinia consectetur aliquet.
 
