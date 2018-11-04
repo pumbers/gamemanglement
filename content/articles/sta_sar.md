@@ -4,7 +4,7 @@ date: 2018-10-18T21:29:54-06:00
 thumbnail: "images/sta_norway_class.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
-draft: false
+draft: true
 ---
 
 
