@@ -1,11 +1,21 @@
 ---
-title: "Star Trek Adventures: Fleets, Part One"
+title: "Star Trek Adventures: Search and Rescue"
 date: 2018-10-18T21:29:54-06:00
-thumbnail: "images/sta_federation_fleet.jpg"
+thumbnail: "images/sta_norway_class.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
-draft: true
+draft: false
 ---
+
+
+
+
+[^1]: Without a picture in the sourcebook it's difficult to pin down exactly which ship is being referred to as the "Attack Fighter". The "Zabathu" class has no references on Memory Alpha (considered canon) beyond the Andorian riding animal but there is reference to [a Federation Attack Fighter there](http://memory-alpha.wikia.com/wiki/Federation_attack_fighter) which is also known as the ["Peregrine" class](http://memory-alpha.wikia.com/wiki/Peregrine_class), so for visual refernces we can probably consider this to be the same ship.
+[^2]: Rulebook references are given as (book:page) where STA is the Star Trek Adventures core rulebook, COM is the Command Division sourcebook and OPS is the Operations Division sourcebook.
+
+
+
+
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur ipsum nec porttitor gravida. Nam vulputate at lectus vitae placerat. Quisque in tellus a lacus egestas lobortis. Cras eu nisi eget velit dictum venenatis. Quisque efficitur nunc ullamcorper nisl vehicula, eget pellentesque ligula dapibus. Vivamus maximus ornare commodo. Aliquam finibus convallis ipsum, vel iaculis est gravida quis. Aliquam ut consequat lorem._
 
