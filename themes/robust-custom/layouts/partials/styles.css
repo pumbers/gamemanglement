@@ -44,7 +44,7 @@ p {
 }
 
 a {
-    color: #55828b;
+    color: #87bba2;
     text-decoration: none;
     transition-duration: .3s;
 }
@@ -367,7 +367,7 @@ article.sn>.article-body p {
 }
 
 article.sn>.article-body strong {
-    font-weight: 900;
+    font-weight: bold;
 }
 
 article.sn>.article-body em {
