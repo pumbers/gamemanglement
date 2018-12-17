@@ -1,7 +1,7 @@
 ---
 title: "Star Trek Adventures: Fighters"
 date: 2018-11-03T17:29:54-06:00
-thumbnail: "images/sta_fighters.jpg"
+thumbnail: "images/sta/sta_fighters.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
 draft: false
@@ -27,7 +27,7 @@ While the rulebook does state that the Akira has “extensive shuttle bays” ca
 
 >One of the largest such facilities on any Federation vessel, the Akira's shuttlebay encompassed almost a third of the ship's saucer section, allowing the Akira-class to act as a fighter carrier as well as a cruiser. Its complement of forty fighters exit through the forward shuttlebay doors and returned through one of two aft bays.
 
-Unlike contemporary carrier ships though, an Akira class will most often operate alone rather than as part of a carrier group but forming such a group for major engagements makes sense so fleet actions may well include frigates, destroyers and support craft to assist the carriers.
+Unlike contemporary carrier ships though, an Akira class will most often operate alone rather than as part of a carrier group but forming such a group for major engagements makes sense so fleet actions may well include frigates, destroyers and support craft to assist and protect the carriers.
 
 Back to the fighters.
 
@@ -41,7 +41,7 @@ In the case of Starbase 23, Lieutenant Commander Yuki Sarrat is the Wraith Squad
 
 ## Officers and Men
 
-Following naval tradition, all flyers in a squadron will be officers and never less than full Lieutenant in rank. Officers of rank less than Lieutenant are never assigned to air wings or, at the very least, will only be trainees on temporary assignment. Support staff - engineers, armourers, logistics specialists, etc forming the ground crew - will be enlisted and non-commissioned personnel. In particular, the **Crew Chief** overseeing work on the ships will most often be a Chief Petty Officer or Master Chief Petty Officer.
+Following naval tradition, all flyers in a squadron will be officers and never less than full Lieutenant in rank. Officers of rank less than Lieutenant are never assigned to fighter wings or, at the very least, will only be trainees on temporary assignment. Support staff - engineers, armourers, logistics specialists, etc forming the ground crew - will be enlisted and non-commissioned personnel. In particular, the **Crew Chief** overseeing work on the ships will most often be a Chief Petty Officer or Master Chief Petty Officer.
 
 An air wing or carrier air group will have a commanding officer (who is NOT the ship's captain), commonly referred to as the **Commander Air Group** or **CAG**. A CAG is typically a post-squadron command pilot of Commander rank or higher. Where a CAG is of Captain rank, they are considered co-equal with the carrier ship's captain and report to the flag officer in charge of the fleet or battlegroup, but will usually defer to the ship's captain in matters that affect the ship as a whole.
 
@@ -62,7 +62,7 @@ In game terms, there are no special rules changes required to play a fighter pil
 Your character will need to be at least a Lieutenant, higher if you want to play a squadron or wing leader. High DARING and CONTROL attributes are a must, while INSIGHT can occasionally help and PRESENCE is useful for the higher ranks.
 Obviously, CONN is the primary discipline with COMMAND being useful again at the higher ranks and ENGINEERING following close behind.
 
-The initial focus requirement is **Small Craft** (COM:49)[^2] with **Combat Maneuvers** (COM:48) and **Evasive Action** (COM:49) coming in useful. Pilots are also likely to have the **Survival** (COM:49) focus, meaning they are trained to survive in harsh environments if they are shot down. Any Talent under the CONN Talents List from the Star Trek Adventiures rulebook or Command Division sourcebook are useful, along with **Bold** (STA:135), **Collaboration**, **Constantly Watching**, **Tough**, **Follow My Lead** (all STA:136) and even **Pack Tactics** (STA:137).
+The initial focus requirement is **Small Craft** (COM:49)[^2] with **Combat Maneuvers** (COM:48) and **Evasive Action** (COM:49) coming in useful. Pilots are also likely to have the **Survival** (COM:49) focus, meaning they are trained to survive in harsh environments if they are shot down. Any Talent under the CONN Talents List from the Star Trek Adventures rulebook or Command Division sourcebook are useful, along with **Bold** (STA:135), **Collaboration**, **Constantly Watching**, **Tough**, **Follow My Lead** (all STA:136) and even **Pack Tactics** (STA:137).
 
 Events from the life path can give clues to the callsign your pilot will have, or you can use any of several online callsign generators (such as [Top Aces - History of the Call Sign](https://www.topaces.com/callsign)) and work a background story around that.
 
@@ -76,23 +76,23 @@ A fighter wing will have at least one Master Crew Chief in charge of servicing, 
 
 The Crew Chief and Technicians will all be non-commissioned ranks, so follow the rules for creating them accordingly. They will all be Engineers of one form or another, so the *Operations Division* sourcebook will come in handy.
 
-On Starbase 23, the 43rd Air Wing has almost 400 enlisted personnel assigned to logistics and maintenance plus around 80 officers serving as pilots and command staff. This may seem a lot, but bear in mind that when all these fighters are in the air you have 64 sets of phasers and micro-photon torpedoes making life difficult for any attacking ships with a crew less than half that of a Galaxy class. On a carrier it's likely that almost all the crew are there to support the fighters and very little else.
+On Starbase 23, the 43rd Air Wing has almost 400 enlisted personnel assigned to logistics and maintenance plus around 80 officers serving as pilots and command staff. This may seem a lot, but bear in mind that when all these fighters are in the air you have 64 sets of phasers and micro-photon torpedoes making life difficult for any attacking ships with a personnel count less than half that of a Galaxy class. On a carrier it's likely that almost all the crew are there to support the fighters and very little else.
 
 ## Fighter Craft & Combat Tactics
 
-The Command Division sourcebook did introduce the “Zabathu” class Federation Attack Fighter along with it’s game statistics, but so far that is (officially) it for fighters in Starv trek Adventures. Unofficially, there are other semi-canon sources such as the Continuing Mission website which has [details of Federation and other races small craft](https://continuingmissionsta.com/2018/09/22/small-craft/), including fighters, and Memory Beta has [non-game details of others](http://memory-beta.wikia.com/wiki/Attack_fighter).
+The Command Division sourcebook did introduce the “Zabathu” class Federation Attack Fighter along with it’s game statistics, but so far that is (officially) it for fighters in Star Trek Adventures. Unofficially, there are other semi-canon sources such as the Continuing Mission website which has [details of Federation and other races small craft](https://continuingmissionsta.com/2018/09/22/small-craft/), including fighters, and Memory Beta has [non-game details of others](http://memory-beta.wikia.com/wiki/Attack_fighter).
 
 The fighter craft itself is, obviously, important when it comes to fighting space battles but the scale of such battles means ultimately there will be little difference statistically between the ships in combat, so don’t focus too much on the technicalities. You’re telling PEOPLE stories at the end of the day, not narrating a technical manual. The people, situations and tactics should drive the story, not the numbers.
 
 Fighters will be Scale 1 or Scale 2 at best if it’s a “heavy bomber” of some sort. Remember, unless it’s some sort of daring tactic, a single fighter or element will always be outclassed by a capital ship one-on-one - the best thing they have going for them is their small size and speed which makes them difficult, but not impossible, to target. On the other hand, a few flights or an entire squadron can be VERY bad news for a capital ship. Maybe the individual attacks are small and not very powerful, but when there’s a lot of them…
 
-On smaller, more focused scales, when there are several fighters against a capital ship, a version of the Borg **THREAT PROTOCOLS** (STA:266) can be used.
+On smaller, more focused scales, when there are several fighters against a single capital ship, a version of the Borg **THREAT PROTOCOLS** (STA:266) can be used.
 
 > A group of attacking fighters will take as many Turns as the combined number of Turns their opponents take — total up the number of Player Characters, plus the Scale of NPC vessels arrayed against the fighters, and this will provide the number of Turns the fighters will take. This can never be more than the number of individual fighters attacking. This simulates the fact that not necessarily all of the fighters, but a great number of them, will be in a position to strike each combat round.  
 
 For example, if three flights (12 ships) of Zabathu class fighters from Starbase 23 take on a (NPC) Romulan D’Deridex class warbird (Scale 6) then the fighters will get 6 Turns each combat round - representing the fact that at any one time around half of them will be in a position to attack while the others are maneuvering for position. Any of the helm tactics (STA:222) can be used by fighters (including **Warp** if the ship is warp-capable), although **Ramming Speed** is obviously pretty much a suicide move if you're in a fighter.
 
-If you're dealing with larger battles and several ships on each side, use the **Fleet Engagements** rules from the Commmand Division sourcebook (COM:100). On this scale, each flight of fighters would be considered a "fleet". Using the Federation Attack Fighter's statistics, Starbase 23 would have 16 "fleets" of strength 4 each. All fleet actions can also be applied to fighter squadrons and attacking and defending works as for capital ships.
+If you're dealing with larger battles and several ships on each side, use the **Fleet Engagements** rules from the Commmand Division sourcebook (COM:100). On this scale, each flight of fighters would be considered a "fleet". Using the Federation Attack Fighter's statistics, Starbase 23 would have 8 "fleets" of strength 8 each (each fleet being half a squadron). All fleet actions can also be applied to fighter squadrons and attacking and defending works as for capital ships.
 
 If one or more Player Characters are in the fight as pilots, the rules for PCs in single ships or multiple ships apply (COM:102).
 
@@ -108,6 +108,6 @@ After the fight is over, you should check to see who survives. Player Characters
 >
 > Captain Kara "Starbuck" Thrace, Battlestar Galactica, Scar (ep2x15)
 
-[^1]: Without a picture in the sourcebook it's difficult to pin down exactly which ship is being referred to as the "Attack Fighter". The "Zabathu" class has no references on Memory Alpha (considered canon) beyond the Andorian riding animal but there is reference to [a Federation Attack Fighter there](http://memory-alpha.wikia.com/wiki/Federation_attack_fighter) which is also known as the ["Peregrine" class](http://memory-alpha.wikia.com/wiki/Peregrine_class), so for visual references we can probably consider this to be the same ship. Memory Beta (non-canon) also has references to the ["Valkyrie" class](http://memory-beta.wikia.com/wiki/Valkyrie_class)] and its variants.
+[^1]: Without a picture in the sourcebook it's difficult to pin down exactly which ship is being referred to as the "Attack Fighter". The "Zabathu" class has no references on Memory Alpha (considered canon) beyond the Andorian riding animal but there is reference to [a Federation Attack Fighter there](http://memory-alpha.wikia.com/wiki/Federation_attack_fighter) which is also known as the ["Peregrine" class](http://memory-alpha.wikia.com/wiki/Peregrine_class), so for visual references we can probably consider this to be the same ship. Memory Beta (non-canon) also has references to the ["Valkyrie" class](http://memory-beta.wikia.com/wiki/Valkyrie_class) and its variants.
 
 [^2]: Rulebook references are given as (book:page) where STA is the Star Trek Adventures core rulebook, COM is the Command Division sourcebook and OPS is the Operations Division sourcebook.

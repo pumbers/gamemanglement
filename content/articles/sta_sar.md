@@ -1,117 +1,79 @@
 ---
 title: "Star Trek Adventures: Search and Rescue"
-date: 2018-10-18T21:29:54-06:00
-thumbnail: "images/sta_norway_class.jpg"
+date: 2018-11-16T12:56:54-06:00
+thumbnail: "images/sta/sta_norway_class.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
 draft: true
 ---
 
+_The **Star Trek Adventures: Command Division** sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Amongst them is the **Norway Class**, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what's it like being on the crew of one of these ships, what adventures can you have and how do you handle them? Let's find out._
+
+## Norway Class Overview
+
+In appearance, the Norway class is instantly recognizable as a Federation vessel in configuration while also being a significant departure from the norms (something increasingly common in post-2370 designs).
+
+A compact wedge-shaped primary hull with an integrated engineering section located in the aft portion of the ship leaves few areas of vulnerability when compared to earlier designs (it is missing the typical "neck" connecting a primary and secondary hull, for example). The warp engines are in the traditional position, mounted on pylons outside of the hull, but are also kept tight in to the hull to maintain the compact silhouette as much as possible.
+
+Scale 4 puts it on a par with a lot of new Federation ships, where the design focus has shifted somewhat to smaller, faster ships capable of wide-scale deployment or deployment in larger fleets of comparable ships.[^1] At 364m long and massing 622,000 metric tonnes, it is approximately half the size of the Sovereign class but still much longer than the original Constitution class from the 2250's.
+
+Standard crew compliment is 190 (25 officers, 165 enlisted)[^2] with a focus on scientific investigation, medical and survival & rescue training. Configured as an Emergency Response Vehicle (ERV), the ship has extensive personnel transporters capable of transporting up to 300 persons per hour and 350 persons per hour if emergency transporters are used as well. There are also expanded sickbay and biological science facilities to handle wounded and to research viral and bacterial infections. 
+
+The rear shuttlebay has a compliment of two Type-6 shuttlecraft kept in "ready launch" mode along with at least two other shuttlecraft including a larger Type-7 loaded with emergency and rescue equipment. Total transport capabilities of these craft vary due to differing classifications but an average load of 100 persons can be offloaded per hour from a standard orbit to an M Class planetary surface. There are also two Work Bees which can be used for space rescue operations if necessary.
+
+For evacuation operations, the ship has the capacity to support up to 500 evacuees with conversion of the shuttlebay and cargo bays to emergency living quarters. Cargo Bay 2 can also be temporarily converted to type H, K, or L environments intended for non-humanoid casualties.
+
+The Norway has extensive cargo bays (approximately 32,200 metric tonne capacity) with similarly extensive cargo transporters which allow emergency supplies to be transported as quickly as possible. For extreme cases, the Norway also has tractor beam emitters mounted above the shuttlebay that allow small cargo containers (around 10,000 metric tonnes total capacity) to be towed between the vessels warp nacelles in case internal cargo bays are insufficient.
+
+Normal cruise speed is warp 7 with short bursts of warp 9.7, but with tractored cargo maximum sustained speeds are lowered to warp 6.5 with short bursts of warp 9.2.
+
+The Norway class is constructed at Spacedock 1 (Earth), Utopia Planitia Fleet Yards (Mars) and the Shor Ka'Tel Fleet Yards (Vulcan).
+
+The class spaceframe will most often be outfitted with the **Crisis and Emergency Response** mission profile (STA:252) - which is assumed in the above overview. 
+
+### Naming
+
+Ships are usually named after Scandanavian countries, regions or cities (including from the mythology of that region), although those built at Vulcan shipyards may have names from desert areas or cities of that planet.
+
+**Example names:** USS Norway (class), USS Denmark, USS Sweden, USS Finland, USS Iceland, USS Copenhagen, USS Oslo, USS Stockholm, USS Asgard, USS Nifelheim, USS Jotunheim, USS Gol, USS Raal, USS Kir.
+
+## Crew Specialities
+
+Any crew member environment, upbringing and training is acceptable for crewing a Norway class, but if the game focus is on emergency and rescue missions then the crew should reflect that.
+
+Talents such as **Bold**, **Cautious**, **Collaboration** and **Tough** (STA:136) will be useful in emergency situations. As a senior officer, **Advisor** and **Supervisor** will help crew under your command and even **Follow My Lead** (STA:136) can be useful in combat or other perilous situations. A helmsman with **Fly-By** or **Push The Limits**, a security officer with **Close Protection** and an engineer with **Jury Rig** can also come in handy. With the Norway's focus, any of the scientific or medical talents will be in almost constant use.
+
+## Adventures
+
+### Colony Support
+
+Newly established colonies can find life on the frontier dangerous at the best of times, even with the advanced technology available in 2370 and later. It is not uncommon to have a starship such as the Norway class assigned for several months or even years for colony support operations.
+
+More mundane missions may include cargo shipments of medical or biological supplies (that the Norway class is particularly adept at handling) or regular medical support such as health checks on the colony from time to time.
+
+Given that it's possible (even likely) a colony may have an emergency or medical situation which was not anticipated - such as an unknown virus or bacteria, localized environmental effects or some form of climate disaster - a Norway class assigned to support one or more colonies may find itself responding to a new request for assistance every few weeks. Then there are the emergencies the colonists themselves create: mining or industrial accidents and even civil war.
+
+### Diplomatic Support
+
+Diplomacy and diplomatic negotiations may seem to be the sole purview of the larger, more impressive ships of the fleet (mainly for show) but a Norway class may well find itself assigned to support those diplomatic overtures by providing more concrete support. A show of superiority and expertise when providing aid to a non-federation species in negotiations can often tip the scales in the Federation's favor.
+
+This could include medical or scientific support for that species, or even providing combat medical facilities in wartime. Of course, in the latter case while the ship would be entitled to defend itself, staying out of any partisan engagement would be a necessary trick.
+
+### Emergency Response
+
+This is what the Norway was built for. Its high warp speed and dedicated facilities make it an ideal vehicle for emergency situations and even in peaceful times and spaces, there can be a lot of emergencies.
+
+### Rescue Operations
+
+### Medevac
+
+In times of conflict, getting wounded out of a combat situation to treatment quickly is paramount, and it's not always possible or even desirable to put a hospital ship (such as the Pasteur class) into harms way. The Norway is faster, more maneuverable and better armed than any hospital ship and with its extensive transporters is capable of evacuating wounded far faster.
+
+In this role, a Norway class may be called on to fight its way to the front lines, provide trauma & triage support and then medevac the wounded out of the area as quickly as possible.
 
 
 
-[^1]: Without a picture in the sourcebook it's difficult to pin down exactly which ship is being referred to as the "Attack Fighter". The "Zabathu" class has no references on Memory Alpha (considered canon) beyond the Andorian riding animal but there is reference to [a Federation Attack Fighter there](http://memory-alpha.wikia.com/wiki/Federation_attack_fighter) which is also known as the ["Peregrine" class](http://memory-alpha.wikia.com/wiki/Peregrine_class), so for visual refernces we can probably consider this to be the same ship.
-[^2]: Rulebook references are given as (book:page) where STA is the Star Trek Adventures core rulebook, COM is the Command Division sourcebook and OPS is the Operations Division sourcebook.
 
+[^1]: The Federation learned some lessons the hard way at the [Battle of Wolf 359](http://memory-alpha.wikia.com/wiki/Battle_of_Wolf_359) and [Battle of Sector 001](http://memory-alpha.wikia.com/wiki/Battle_of_Sector_001). Until this point, the tendency was to build small numbers of large (scale 5+) multi-role ships, but it became apparent that these ships were easily destroyed by a vastly superior force and then difficult and expensive to replace. Larger numbers of smaller, role-specific, ships has actually proven to be more flexible while making those ships easier to replace when they are lost. The Federation does, however, still build some ship such as the Sovereign Class partly to maintain that multi-role capability but also as a show of technological superiority and force.
 
-
-
-
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur ipsum nec porttitor gravida. Nam vulputate at lectus vitae placerat. Quisque in tellus a lacus egestas lobortis. Cras eu nisi eget velit dictum venenatis. Quisque efficitur nunc ullamcorper nisl vehicula, eget pellentesque ligula dapibus. Vivamus maximus ornare commodo. Aliquam finibus convallis ipsum, vel iaculis est gravida quis. Aliquam ut consequat lorem._
-
-## The Lethe Class
-
-Vivamus in dui efficitur, finibus ligula ac, consequat erat. In tempor eros et arcu dapibus consectetur at quis eros. Vivamus imperdiet ante mollis porta ultricies. Donec bibendum aliquam libero vel mattis. Etiam mattis eget lacus tincidunt fringilla. Etiam efficitur purus a accumsan semper. Sed consequat neque in elit scelerisque facilisis. Aenean justo urna, convallis vitae massa vitae, dapibus fringilla diam. Fusce a enim eu tortor vulputate auctor vel vel nisl.
-
-### Yet another heading
-
-Sed vitae velit non lorem rutrum venenatis a vitae lacus. Phasellus interdum, justo vitae malesuada elementum, nunc ante vulputate purus, nec mollis odio ex quis arcu. Proin at justo felis. Duis faucibus aliquam commodo. Mauris interdum sapien in nisi dictum luctus. Ut nunc tortor, fermentum in mollis sit amet, feugiat vitae nisl. Aliquam sodales odio et risus ultrices, porta sodales dolor tristique. Ut bibendum sollicitudin magna, non dapibus ipsum convallis bibendum. Nullam lacinia consectetur aliquet.
-
-#### And still another heading
-
-Proin nulla sem, hendrerit a massa sit amet, pellentesque euismod erat. Nam sed neque nec purus laoreet pretium sed a nulla. Nullam nec fermentum libero. Nam sed justo dictum ante mollis pretium. Sed quis quam justo. Suspendisse non magna aliquet, eleifend ante sed, consequat orci. Fusce non justo nisi. Pellentesque non gravida sapien. Aliquam non ante eu lorem sollicitudin pretium. Sed ut ipsum ac libero finibus accumsan sit amet eget diam. Aliquam ante lorem, accumsan et orci at, tincidunt imperdiet arcu. Cras dignissim arcu et ipsum aliquet, quis malesuada ex dapibus. Maecenas congue, nibh sit amet iaculis vehicula, justo neque tristique magna, a commodo ante ante et odio.
-
-Nam egestas eleifend enim. Donec ullamcorper maximus velit vel dictum. Aenean ac lorem orci. Nam arcu nisl, consectetur efficitur placerat vel, hendrerit aliquam nisi. Morbi quis interdum mi. Donec varius condimentum lacus, eget venenatis enim. Nullam vitae dapibus nulla, vitae faucibus dolor. Praesent eleifend ultricies velit, sed condimentum arcu varius vitae. Ut at diam eu enim venenatis euismod at quis sapien. Etiam eget hendrerit diam.
-
-# Behead that were still
-
-## Some random markdown for testing Marked Custom Styles.
-
-We quarrelled last more They were too but after a good advice though still and Derision. Ten hours to grow smaller and birds with respect. Shan't said right I'm better to land again before HE taught us with fur clinging close above her sister *as* its head on a king said waving the bread-knife. I'd better with wooden spades then always grinned a hint but tea when she leant against one about this I took her next verse the thimble and beasts as solemn tone don't know What WILL be A WATCH OUT OF THE LITTLE larger again for having a day-school too slippery and crawled away besides all directions **just** now here directly. Just at once with curiosity she opened their turns and neither of these were live at all stopped hastily began dreaming after some [fun.](http://dummy.com)
-
-Advice from all day The Mouse dear she knelt down in surprise. for yourself to try to leave **off** writing down looking anxiously to meet the sand with oh such a waistcoat-pocket [or judge by his housemaid she exclaimed in](http://dummy.com) a steam-engine when he would die. Sentence first idea was written up my mind what *this* young lady to move. Are they lay sprawling about half the Fish-Footman began. Change lobsters out at Alice to know what am to call it all must make THEIR eyes full size again to ME.
-
-## Tell me my mind and sighing in
-
-The game's going through the top of Rome no arches. She drew a **great** dismay [*and* curiouser. I'll be afraid said What](http://dummy.com) trial.[^fn1]
-
-[^fn1]: down one old Father William and skurried away comfortably enough.
-
-* song
-* swallow
- * behind
- * alarm
-* beautify
-
-they draw treacle out a dear. Be off this New Zealand or [the mushroom said it sad and](http://dummy.com) turning purple. Your Majesty he with strings into its hurry a sorrowful tone *was* suppressed. Somebody said So you haven't found it. IT. the fifth bend I BEG your history she gained courage and went stamping about for poor hands on a hatter. Keep back again as **serpents.**
-
-### Anything you ever thought it every door about this
-
-Proin nulla sem, hendrerit a massa sit amet, pellentesque euismod erat. Nam sed neque nec purus laoreet pretium sed a nulla. Nullam nec fermentum libero. Nam sed justo dictum ante mollis pretium. Sed quis quam justo. Suspendisse non magna aliquet, eleifend ante sed, consequat orci. Fusce non justo nisi. Pellentesque non gravida sapien. Aliquam non ante eu lorem sollicitudin pretium. Sed ut ipsum ac libero finibus accumsan sit amet eget diam. Aliquam ante lorem, accumsan et orci at, tincidunt imperdiet arcu.
-
-|D20|Fleet Composition|
-|:-----:|:-----|
-1-3|Are you call him while more the face brightened up my youth as Sure it if he.|
-4-8|She'll get on between us Drawling Stretching and I'm on both cried.|
-9-15|`They're putting down here and conquest.`|
-16-18|Write that you shouldn't talk on rather crossly of croquet with wooden spades then Drawling Stretching and knocked. Write that you shouldn't talk on rather crossly of croquet with wooden spades then Drawling Stretching and knocked.|
-19-20|Majesty he with strings into its hurry a sorrowful tone *was* suppressed.|
-
-Soup of WHAT. Are you call him while more the face brightened up my youth as Sure it if he. While she comes at the cur Such a dreadfully fond of of voices Hold up now dears. Our family always grinned when suddenly dropping his teacup **and** several other two as I'd been ill. She'll get on between us Drawling Stretching and I'm on both cried the *cake* but the Conqueror whose cause and looking up [like said advance twice set the chimney. ](http://dummy.com)
-
-> Pray how late much indeed Tis the pleasure of the royal children.
-> Herald read in search of having found the subject.
-
- 1. treacle
- 1. close
-    1. Master cleanse.
-    1. Pour-over chillwave chia,.
-        1. Quinoa swag mixtape typewriter,.
-        1. And so on.
- 1. teeth
- 1. teases
- 1. driest
-
-They're putting down here and conquest. Pat what's more happened [and one crazy. Some of saying *Thank* you](http://dummy.com) Though they arrived **with** tears. Write that you shouldn't talk on rather crossly of croquet with wooden spades then Drawling Stretching and knocked.[^fn2]
-
-[^fn2]: so kind Alice again using the trouble you thinking there are the cupboards and hurried upstairs in to it
-
----
-
-    Collar that part about once without a child 
-    but why it made Alice or
-    Run home thought poor speaker said Get 
-    up eagerly and one repeat TIS THE BOOTS either.
-    As a new pair of Mercia and sometimes shorter.
-    won't stand on yawning.
-    So he said without being alive the Lory 
-    positively refused to sea of
-
-First because I DON'T know all in them called lessons and lonely and Cheshire cats nasty low and muttered the pig-baby was only look about cats eat one only too began with all played.
-
-Apple
-: Pomaceous fruit of plants of the genus Malus in the family Rosaceae.
-: An american computer company.
-
-Banana
-: 1. A delicious fruit that can be hazardous if left on the ground.
-: 2. A fruit that comes with it's own packaging
-
-Orange
-: The fruit of an evergreen tree of the genus Citrus.
-
-```ruby
-def wonderland(alice)
-    puts "Cheshire Cat #{smile}"
-end
-```
+[^2]: Where possible, stats come from canon sources such as [Memory Alpha](http://memory-alpha.wikia.com/wiki/Norway_class.) Some non-canon (but still reasonable) stats taken from [Star Trek: A Call To Duty](http://techspecs.acalltoduty.com/norway.html).
