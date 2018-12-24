@@ -1,6 +1,6 @@
 ---
 title: "Cypher System: Elemental Magic"
-date: 2018-10-28T18:15:55-06:00
+date: 2018-10-28
 thumbnail: "images/cypher/cypher_magic_1_thumbnail.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games"]
@@ -37,21 +37,21 @@ Magic is elemental in nature. Everything that was, is and will be is built from 
 
 Most of what you see around you contains so little pure elemental form that it is considered **mundane**. A stream is just water, a campfire is just fire and earth is just dirt. But, every now and then those skilled in the ways of magic, those who have **affinity** with particular elements can find a sign, a [**cynosure**](https://www.dictionary.com/browse/cynosure) of the pure element.
 
-| Element | Transcendental State | Name | Effects |
-|---|---|---|---|
-| **Fundamental** ||||
+| Element | Transcendental&nbsp;State | Name | Type of Effect |
+|:---|:---|:---|:---|
+| **Fundamental** |
 | Earth | Material | Heartstone |  |
 | Air | Void | Wisp |  |
 | Fire | Excite | Dragonbreath |  |
 | Water | Calm |  |  |
-| **Terrestrial** ||||
+| **Terrestrial** |
 | Spark | Kinetic |  |  |
 | Magma | Destruction |  |  |
 | Freeze | Potential | Wintershard | Cold, harden, solidify, stiffen, immobility, inhibit, dormant, latent |
 | Wood | Life | Druidheart |  |
 | Steam | Ascend |  |  |
 | Dust | Fall |  |  |
-| **Celestial** ||||
+| **Celestial** |
 | Spirit | Thought |  |  |
 | Body | Form |  |  |
 | Light | Dawn |  |  |

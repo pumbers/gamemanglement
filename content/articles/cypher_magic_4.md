@@ -1,6 +1,6 @@
 ---
 title: "Cypher System: Elemental Magic, Cyphers and Artifacts"
-date: 2018-10-28T18:15:55-06:00
+date: 2018-10-28
 thumbnail: "images/cypher/cypher_magic_4_thumbnail.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games"]

@@ -1,9 +1,9 @@
 ---
-title: "The Greydawn Reaches: Introduction"
-date: 2018-10-18T21:29:54-06:00
+title: "Welcome to The Greydawn Reaches"
+date: 2018-12-16
 thumbnail: "images/greydawn/city_courmiers.jpg"
 categories: ["Role Playing Games"]
-tags: ["The Fantasy Trip", "Steve Jackson Games"]
+tags: ["The Fantasy Trip", "Steve Jackson Games", "Greydawn Reaches"]
 draft: true
 ---
 

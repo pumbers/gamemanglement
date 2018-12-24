@@ -1,6 +1,6 @@
 ---
 title: "Star Trek Adventures: Fleets, Part Three"
-date: 2018-10-18T21:29:54-06:00
+date: 2018-10-18
 thumbnail: "images/sta/sta_federation_fleet.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
