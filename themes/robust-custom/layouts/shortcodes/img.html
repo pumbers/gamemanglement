@@ -1,5 +1,9 @@
 <figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
+  {{ if hasPrefix (.Get "src") "http"}}
+  <img src="{{ .Get "src" }}" alt="{{ .Get "caption" }}"{{ with (.Get "w") }} width="{{ . }}"{{ end }}{{ with (.Get "h") }} height="{{ . }}"{{ end }}>
+  {{ else }}
   <img src="{{ $.Site.BaseURL }}{{ .Get "src" }}" alt="{{ .Get "caption" }}"{{ with (.Get "w") }} width="{{ . }}"{{ end }}{{ with (.Get "h") }} height="{{ . }}"{{ end }}>
+  {{ end}}
   {{ if .Get "caption" }}
   <figcaption>
     {{ if .Get "href" }}

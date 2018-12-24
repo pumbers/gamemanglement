@@ -739,7 +739,11 @@ section.footer>header a {
   {{ range $p := .Site.RegularPages }}
   {{ with $p.Params.thumbnail }}
   .thumb-{{ $p.UniqueID }} {
+    {{ if hasPrefix . "http"}}
+    background-image: url({{ . }});
+    {{ else }}
     background-image: url({{ $.Site.BaseURL }}{{ . }});
+    {{ end }}
   }
   {{ end }}
   {{ end }}

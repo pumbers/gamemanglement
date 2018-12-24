@@ -4,7 +4,7 @@ date: 2018-10-28
 thumbnail: "images/cypher/cypher_magic_1_thumbnail.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games"]
-draft: false
+draft: true
 ---
 
 _My love of the Cypher System has been a rocky road (as in rough, not the ice cream). Back when I first laid hands on a copy of Numenera (1st edition), I read it and didn't understand it. I loved the background and storylines - and bear in mind here I've been playing role-playing games since Classic Traveller at University in England. I still didn't get the game system. My gut told me it worked and it was very good, but my head didn't get it. So I put it on one side for a while._
