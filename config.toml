@@ -1,6 +1,8 @@
 languageCode = "en-us"
 title = "Game Manglement"
 theme = "robust-custom"
+publishDir = "docs"
+baseUrl = "https://pumbers.github.io/game-manglement/"
 
 [params]
   description = "Thoughts and stuff for tabletop gaming"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/categories/</link>
+    <description>Recent content in Categories on Game Manglement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pumbers.github.io/game-manglement/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Board Games Games</title>
+      <link>https://pumbers.github.io/game-manglement/categories/board-games-games/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/categories/board-games-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role Playing Games</title>
+      <link>https://pumbers.github.io/game-manglement/categories/role-playing-games/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/categories/role-playing-games/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
