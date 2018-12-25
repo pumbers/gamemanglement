@@ -98,9 +98,7 @@ If one or more Player Characters are in the fight as pilots, the rules for PCs i
 
 A *damaged* fighter fleet has lost at least some ships and those that are left are themselves considered damaged, hence the fleet only getting one action per Turn. When fighters regroup (COM:101) they will only gain the +1 Effect bonus if they are able to return to their operating base or a carrier to repair and re-arm.
 
-Back at the operating base - ship, starbase or planet - ship tactics will be handled from a *Combat Information Centre (CIC)*. This may be near or on the bridge if the fighters are carrier-based, or a separate location on starbases or planets. The CIC is always the best protected area of the ship or starbase.
-
-The CAG may well be out there with his or her fellow pilots, so back in the CIC the battle will be handled by a *Tactical Action Officer (TAO)* who will take all actions not directly related to the carrier ship or starbase and under the direction of the ship's captain or starbase commanding officer. The TAO will be responsible for squadron/wing strategy, dispatching the fighters to where they are most needed in the battle.
+Back at the operating base - ship, starbase or planet - the fight will be handled from a *Combat Information Centre (CIC)*. This may be near or on the bridge if the fighters are carrier-based, or a separate location on starbases or planets. The CIC is always the best protected area of the ship or starbase. Fighter tactics will be handled by the CAG while the carrier ship or starbase is the responsibility of the Commanding Officer and Tactical Officer.
 
 After the fight is over, you should check to see who survives. Player Characters should only die as part of the story - but of course, they may not *really* be dead. NPCs, on the other hand, are fair game and killing off a well known and loved NPC is a good way of providing motivation for the other pilots.
 
