@@ -1,6 +1,6 @@
 ---
 title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 1"
-date: 2018-12-16
+date: 2019-01-14
 thumbnail: "campaigns/ten_thousand_worlds/hela_station.jpg"
 categories: ["Role Playing Games"]
 tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
