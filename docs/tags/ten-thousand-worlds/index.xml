@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game Manglement</title>
-    <link>https://pumbers.github.io/game-manglement/</link>
-    <description>Recent content on Game Manglement</description>
+    <title>Ten Thousand Worlds on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/</link>
+    <description>Recent content in Ten Thousand Worlds on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,24 +30,6 @@ If you want to get a feel for life in the 10K, think Firefly, a bit of Guardians
       <description>There are many mysteries, wonders and dangers in the Ten Thousand Worlds, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead.
 Welcome to the Ten Thousand Worlds.
 The Testament of Cycles The Testament of Cycles is, looking at at it simplistically, a book - but quite unlike any other book in existence. Firstly, it is not a physical object (although physical copies of parts of it have been made).</description>
-    </item>
-    
-    <item>
-      <title>Star Trek Adventures: Fighters</title>
-      <link>https://pumbers.github.io/game-manglement/articles/sta_fighters/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/articles/sta_fighters/</guid>
-      <description>The Command Division sourcebook for Star Trek Adventures includes, almost hidden away in the Federation Small Craft chapter, the details of the Federation Attack Fighter, also called the Zabathu1 class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more capital ships which make up the vast majority of any faction’s fleet.</description>
-    </item>
-    
-    <item>
-      <title>Brass: Kickstarter Edition, Review</title>
-      <link>https://pumbers.github.io/game-manglement/posts/brass_review/</link>
-      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/posts/brass_review/</guid>
-      <description>Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games.</description>
     </item>
     
   </channel>
