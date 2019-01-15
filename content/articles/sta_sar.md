@@ -1,7 +1,7 @@
 ---
 title: "Star Trek Adventures: Search and Rescue"
 date: 2018-11-16
-thumbnail: "images/sta/sta_norway_class.jpg"
+thumbnail: "articles/sta_norway_class.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
 draft: true
@@ -47,11 +47,11 @@ Talents such as **Bold**, **Cautious**, **Collaboration** and **Tough** (STA:136
 
 ### Colony Support
 
-Newly established colonies can find life on the frontier dangerous at the best of times, even with the advanced technology available in 2370 and later. It is not uncommon to have a starship such as the Norway class assigned for several months or even years for colony support operations.
+Newly established colonies can find life on the frontier dangerous at the best of times, even with the advanced technology available in 2370 and later. It's not uncommon to have a starship such as the Norway class assigned for several months or even years to colony support operations in a sector or frontier.
 
 More mundane missions may include cargo shipments of medical or biological supplies (that the Norway class is particularly adept at handling) or regular medical support such as health checks on the colony from time to time.
 
-Given that it's possible (even likely) a colony may have an emergency or medical situation which was not anticipated - such as an unknown virus or bacteria, localized environmental effects or some form of climate disaster - a Norway class assigned to support one or more colonies may find itself responding to a new request for assistance every few weeks. Then there are the emergencies the colonists themselves create: mining or industrial accidents and even civil war.
+Given that it's possible (even likely) a colony may have an emergency or medical situation which was not anticipated - such as an unknown virus or bacteria, localized environmental effects or some form of climate disaster - a Norway class assigned to support one or more colonies may find itself responding to a new request for assistance every few weeks. Then there are the emergencies the colonists themselves create: mining or industrial accidents and even the occasional civil war.
 
 ### Diplomatic Support
 
@@ -59,20 +59,15 @@ Diplomacy and diplomatic negotiations may seem to be the sole purview of the lar
 
 This could include medical or scientific support for that species, or even providing combat medical facilities in wartime. Of course, in the latter case while the ship would be entitled to defend itself, staying out of any partisan engagement would be a necessary trick.
 
-### Emergency Response
+### Emergency Response and Rescue Operations
 
-This is what the Norway was built for. Its high warp speed and dedicated facilities make it an ideal vehicle for emergency situations and even in peaceful times and spaces, there can be a lot of emergencies.
-
-### Rescue Operations
+This is what the Norway was built for. Its high warp speed and dedicated facilities make it an ideal vehicle for emergency situations and even in peaceful times and spaces, there can be a lot of emergencies. Disabled or battle-damaged starships, colonial emergencies... These missions are anything but routine, and the Norway class will typically be tasked with rapid response to the emergency based on little information, assessing the situation and conducting asppropriate rescue, scientific and medical operations based on that assessment. This is where sitations and circumstances can be very fluid, and Players will have to think on their feet but must always bear in mind their primary mission and Federation giudelines.
 
 ### Medevac
 
 In times of conflict, getting wounded out of a combat situation to treatment quickly is paramount, and it's not always possible or even desirable to put a hospital ship (such as the Pasteur class) into harms way. The Norway is faster, more maneuverable and better armed than any hospital ship and with its extensive transporters is capable of evacuating wounded far faster.
 
 In this role, a Norway class may be called on to fight its way to the front lines, provide trauma & triage support and then medevac the wounded out of the area as quickly as possible.
-
-
-
 
 [^1]: The Federation learned some lessons the hard way at the [Battle of Wolf 359](http://memory-alpha.wikia.com/wiki/Battle_of_Wolf_359) and [Battle of Sector 001](http://memory-alpha.wikia.com/wiki/Battle_of_Sector_001). Until this point, the tendency was to build small numbers of large (scale 5+) multi-role ships, but it became apparent that these ships were easily destroyed by a vastly superior force and then difficult and expensive to replace. Larger numbers of smaller, role-specific, ships has actually proven to be more flexible while making those ships easier to replace when they are lost. The Federation does, however, still build some ship such as the Sovereign Class partly to maintain that multi-role capability but also as a show of technological superiority and force.
 

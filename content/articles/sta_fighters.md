@@ -1,7 +1,7 @@
 ---
 title: "Star Trek Adventures: Fighters"
 date: 2018-11-03
-thumbnail: "images/sta/sta_fighters.jpg"
+thumbnail: "articles/sta_fighters.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
 draft: false

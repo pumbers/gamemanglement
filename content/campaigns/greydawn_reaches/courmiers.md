@@ -1,7 +1,7 @@
 ---
 title: "The City State and Kingdom of Courmiers"
 date: 2018-12-16
-thumbnail: "images/greydawn/city_courmiers.jpg"
+thumbnail: "campaigns/greydawn_reaches/city_courmiers.jpg"
 categories: ["Role Playing Games"]
 tags: ["The Fantasy Trip", "Steve Jackson Games", "Greydawn Reaches"]
 draft: true

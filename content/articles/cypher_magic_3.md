@@ -1,7 +1,7 @@
 ---
 title: "Cypher System: Elemental Magic, Magic Flavor"
 date: 2018-10-28
-thumbnail: "images/cypher/cypher_magic_3_thumbnail.jpg"
+thumbnail: "articles/cypher_magic_3_thumbnail.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games"]
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: "Brass: Kickstarter Edition, Review"
 date: 2018-10-20
-thumbnail: "images/posts/brass_game.jpg"
+thumbnail: "posts/brass_game.jpg"
 categories: ["Board Games Games"]
 tags: ["Kickstarter"]
 draft: false
