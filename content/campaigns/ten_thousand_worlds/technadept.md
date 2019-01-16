@@ -4,7 +4,7 @@ date: 2019-01-14
 thumbnail: "campaigns/ten_thousand_worlds/technadept.png"
 categories: ["Role Playing Games"]
 tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _Cybernetics in the 10K are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
