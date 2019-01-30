@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Game Manglement</title>
-    <link>https://pumbers.github.io/game-manglement/articles/</link>
-    <description>Recent content in Articles on Game Manglement</description>
+    <title>3d Printing on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/categories/3d-printing/</link>
+    <description>Recent content in 3d Printing on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pumbers.github.io/game-manglement/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pumbers.github.io/game-manglement/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://pumbers.github.io/game-manglement/articles/3d_engineering/</guid>
       <description>Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&amp;rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&amp;rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the Creality Ender 3 Pro hit the market.</description>
-    </item>
-    
-    <item>
-      <title>Star Trek Adventures: Fighters</title>
-      <link>https://pumbers.github.io/game-manglement/articles/sta_fighters/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/articles/sta_fighters/</guid>
-      <description>The Command Division sourcebook for Star Trek Adventures includes, almost hidden away in the Federation Small Craft chapter, the details of the Federation Attack Fighter, also called the Zabathu1 class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more capital ships which make up the vast majority of any faction’s fleet.</description>
     </item>
     
   </channel>

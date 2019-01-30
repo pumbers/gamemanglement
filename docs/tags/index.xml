@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pumbers.github.io/game-manglement/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3d Printing</title>
+      <link>https://pumbers.github.io/game-manglement/tags/3d-printing/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/tags/3d-printing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Black Hack</title>
@@ -17,6 +26,15 @@
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/black-hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://pumbers.github.io/game-manglement/tags/engineering/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/tags/engineering/</guid>
       <description></description>
     </item>
     
@@ -53,6 +71,15 @@
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/star-trek-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabletop Gaming</title>
+      <link>https://pumbers.github.io/game-manglement/tags/tabletop-gaming/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/tags/tabletop-gaming/</guid>
       <description></description>
     </item>
     

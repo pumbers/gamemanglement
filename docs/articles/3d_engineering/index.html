@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="theme-color" content="#263238">
+
+<meta name="generator" content="Hugo 0.49.2" />
+
+<link rel="apple-touch-icon" href="https://pumbers.github.io/game-manglement/images/logo.png">
+
+
+<link rel="canonical" href="https://pumbers.github.io/game-manglement/articles/3d_engineering/">
+
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Lobster%7cLato:400,700" rel="stylesheet">
+    
+    <link href="//use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>3D Printing: Basic Engineering - Game Manglement</title>
+    
+
+<meta name="description" content="Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&amp;rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&amp;rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the Creality Ender 3 Pro hit the market.">
+
+<meta property="og:title" content="3D Printing: Basic Engineering - Game Manglement">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://pumbers.github.io/game-manglement/articles/3d_engineering/">
+<meta property="og:image" content="https://pumbers.github.io/game-manglement/images/default.png">
+<meta property="og:site_name" content="Game Manglement">
+<meta property="og:description" content="Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&amp;rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&amp;rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the Creality Ender 3 Pro hit the market.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Game Manglement">
+<meta name="twitter:url" content="https://pumbers.github.io/game-manglement/articles/3d_engineering/">
+<meta name="twitter:title" content="3D Printing: Basic Engineering - Game Manglement">
+<meta name="twitter:description" content="Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&amp;rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&amp;rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the Creality Ender 3 Pro hit the market.">
+<meta name="twitter:image" content="https://pumbers.github.io/game-manglement/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https://pumbers.github.io/game-manglement/"
+    },
+    "headline": "3D Printing: Basic Engineering - Game Manglement",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://pumbers.github.io/game-manglement/images/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2019-01-29T00:00:00JST",
+    "dateModified": "2019-01-29T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "Game Manglement"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Game Manglement",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://pumbers.github.io/game-manglement/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the Creality Ender 3 Pro hit the market."
+  }
+</script>
+
+
+    <style>
+      html { font-size: 18px; background-color: rgba(236, 239, 241, .5);}@media (max-width: 768px) { html { font-size: 15px; }}body { color: #364958; background-color: #DDD; font-family: 'Roboto Slab', sans-serif; font-feature-settings: "palt"; font-size: inherit; line-height: 1rem; margin: 0; padding: 0;}h1,h2,h3,h4,h5,h6 { font-size: 1rem; font-weight: 700; line-height: 1rem; margin: 0;}hr { border: 0; border-top: 1px solid #55828b; margin: 1rem 0;}p { margin: 0; line-height: 1rem;}a { color: #87bba2; text-decoration: none; transition-duration: .3s;}a:hover { text-decoration: underline;}ul,ol { margin: 0; padding: 0;}table { border-collapse: collapse; margin-left: auto; margin-right: auto;}th,td { font-size: .8rem; padding: .5rem;}thead tr { border-bottom: 3px solid #ddd;}tr { border-bottom: 1px solid #ddd;}tr:nth-child(even) { background-color: #f2f2f2;}tr td:first-child { white-space: nowrap;}/* Layouts */main,aside { display: block;}main { padding: 1rem 0 3rem 0;}aside.h { padding: 3rem 0;}main.f,aside.f { background-color: #333; border-top: 2px dashed #fff; border-bottom: 2px dashed #fff;}.l-container { position: relative; max-width: 68rem; margin: 0 auto; padding: 0 1rem;}.l-container.thin { max-width: 44rem;}.l-header { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); padding: 1rem 0; text-align: center;}.l-header .description { margin-top: .5rem; font-size: .8rem;}.l-footer { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); font-size: .6rem; font-weight: 700; padding: 1rem 0;}@media (max-width: 768px) { .l-sidebar { margin-top: 4rem; }}.mrow { margin: 0 -1rem; overflow: hidden;}.mcol { box-sizing: border-box; float: left; padding: 0 1rem;}.c6 { width: 50%;}.c4 { width: 33.26323833%;}.c8 { width: 66.66666%;}@media (max-width: 768px) { .mcol { width: 100%; float: none; }}.logo a { font-size: 1.4rem; line-height: 1.5rem; font-weight: 700; color: #333;}.articles { margin: -1rem 0; margin-bottom: 1rem;}.articles.sm { margin: -.5rem 0; margin-bottom: 0;}article { border-radius: 4px; overflow: hidden;}article.li { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); height: 20rem; overflow: hidden; margin: 1rem 0;}article.li>a { display: block; color: #333;}article.li .inner { padding: 1rem;}article.li .thumb { height: 8rem;}article.li .title { color: #333; font-size: 1.2rem; line-height: 1.5rem; margin-bottom: .5rem;}article.li .summary { font-size: .8rem; height: 6rem; overflow: hidden; margin-top: 1rem;}article.li .summary::after { content: '...';}article.lism { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); margin: .5rem 0;}article.lism::after { content: ''; display: block; clear: both;}article.lism>a { display: block; color: #333;}article.lism .inner { display: table-cell; vertical-align: middle; height: 5rem; padding: 0 .75rem;}article.lism .thumb { width: 5rem; height: 5rem; float: left;}article.lism .title { font-weight: 700; font-size: .8rem; margin-bottom: .25rem;}article.sn { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); margin-bottom: 1rem;}article.sn .thumb { height: 20rem;}@media (max-width: 768px) { article.sn .thumb { height: 10rem; }}article.sn>.article-header,article.sn>.article-body,article.sn .article-footer { padding: 2rem;}article.sn>.article-body { padding: 0 2rem;}@media (max-width: 768px) { article.sn>.article-header, article.sn>.article-body, article.sn .article-footer { padding: 1rem; } article.sn>.article-body { padding: 0 1rem; }}article.sn>.article-header .title { font-size: 1.8rem; line-height: 2rem; margin-bottom: .5rem;}@media (max-width: 768px) { article.sn>.article-header .title { font-size: 1.4rem; line-height: 1.5rem; }}article.sn>.article-header .facts { margin-bottom: 1rem;}article.sn>.article-body { margin-bottom: 1.5rem;}article.sn>.article-body h2 { border-bottom: .25rem solid #333; font-size: 1.2rem; line-height: 1.5rem; margin: 1.5rem 0; padding: .5rem 0;}article.sn>.article-body h3 { border-left: .5rem solid #333; line-height: 1.5rem; margin: 1.5rem 0; padding: .125rem .5rem;}article.sn>.article-body ul,article.sn>.article-body ol { margin: 1.5rem 0; padding-left: 1.5rem;}article.sn>.article-body li { padding-bottom: .5rem; line-height: 1.5rem;}article.sn>.article-body li:last-child { padding-bottom: 0;}article.sn>.article-body p { margin: 1rem 0; line-height: 1.5rem;}article.sn>.article-body strong { font-weight: bold;}article.sn>.article-body em { font-style: italic;}article.sn>.article-body code,article.sn>.article-body pre { font-family: Menlo, Consolas, monospace; font-size: .7rem;}article.sn>.article-body pre { background-color: #333; color: #fff; line-height: 1rem; margin: 1.5rem -2rem; overflow: auto;}@media (max-width: 768px) { article.sn>.article-body pre { margin: 1.5rem -1rem; }}article.sn>.article-body pre>code { display: block; padding: 1rem 2rem;}@media (max-width: 768px) { article.sn>.article-body pre>code { padding: 1rem; }}article.sn>.article-body p code { background-color: #eceff1; color: #333; border-radius: 4px; margin: 0 .25rem; padding: .375rem; white-space: nowrap;}article.sn>.article-body blockquote { position: relative; border-left: .25rem solid #333; font-size: .8rem; padding: .125rem 1rem; margin: 1.5rem 0;}article.sn>.article-body dl dt { font-weight: bold; text-decoration: underline; line-height: 2em;}@media (max-width: 768px) { article.sn>.article-body blockquote { font-size: 1rem; }}article.sn>.article-body blockquote p { margin: .5rem 0; line-height: 1rem;}article.sn>.article-body figure { margin: 1.5rem 0;}article.sn>.article-body img,article.sn>.article-body figure img,article.sn>.article-body figure amp-img { /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); */ max-width: 100%; display: block; margin: 0 auto;}article.sn>.article-body figcaption { color: #cfd8dc; font-size: .8rem; font-weight: 700; text-align: center; margin: .5rem auto;}.facts li { display: inline; font-size: .8rem; margin-right: 1rem;}.facts i { color: #cfd8dc; margin-right: .5em;}.facts.sm li { font-size: .7rem;}.sections.sidebar { margin: -1rem 0;}.sections.footer { margin: -1rem 0;}section.sidebar { margin: 2rem 0;}section.sidebar>header { font-size: .8rem; font-weight: 700; letter-spacing: 4px; text-align: center; margin: 1.5rem 0;}section.footer { margin: 1rem 0;}section.footer>header { font-size: .8rem; margin: .5rem 0;}section.footer>header::before { content: "- ";}section.footer>header a { font-weight: 700; color: #333; text-decoration: underline;}.terms { margin: -.25rem;}.terms li { display: inline-block;}.terms a { display: block; float: left; background-color: #333; border-radius: 4px; color: #fff; font-size: .7rem; margin: .25rem; padding: 0 .75rem; line-height: 1.75rem;}.paging { text-align: center; padding: 1rem 0;}.paging a { display: inline-block; background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); border-radius: 4px; color: #333; padding: 0 1rem; line-height: 3rem;}.page-title { text-align: center; margin: 1rem 0;}.page-title::after { content: ''; display: block; border-bottom: .25rem solid #333; width: 3rem; margin: 1.5rem auto;}.page-title>.title { font-size: 1.2rem; line-height: 1.5rem;}/* Parts:breadcrumb */.crumb ol { text-overflow: ellipsis; color: #cfd8dc; white-space: nowrap; overflow: hidden;}.crumb li { display: inline; font-size: .8rem;}.crumb li::after { content: '›'; margin: 0 .25rem 0 .5rem;}.crumb li:last-child::after { content: '';}.crumb a { color: #cfd8dc;}.crumb i { margin-right: .5em;}.share { padding: 0;}.share a { display: inline-block; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); min-width: 1rem; height: 2rem; border-radius: 4px; color: #333; font-size: .8rem; font-weight: 700; line-height: 2rem; text-align: center; padding: 0 .5rem;}.adj article.lism { margin-bottom: 1rem;}.adj header { font-weight: 700; font-size: .8rem;}.toc { padding: 0 2rem;}@media (max-width: 768px) { .toc { padding: 0 1rem; }}.toc { margin: 1rem 0;}.toc nav>ul { background-color: #eceff1; border-radius: 4px; display: inline-block; font-size: .8rem; padding: .5rem 1rem; word-break: break-all; list-style: none;}.toc ul { padding: 0;}.toc ul ul { padding-left: 1rem;}.toc ul ul ul { padding-left: 1rem;}.toc li { color: #90a4ae;}.toc ul ul>li { font-weight: 700; margin: .5rem 0; list-style-type: decimal;}.toc ul ul ul>li { list-style-type: disc; font-weight: 500;}.author { background-color: #fff; box-shadow: 0 0 0 1px rgba(63, 63, 68, .05), 0 1px 3px rgba(63, 63, 68, .1), 0 1px 2px rgba(0, 0, 0, .05); padding: 1rem; border-radius: 4px; text-align: center;}.author .author-thumb { margin: 0 auto 1rem; width: 6rem; height: 6rem; border-radius: 50%; background-color: #eceff1; background-size: cover; background-position: center;}.author .author-name { margin-bottom: .5rem; font-weight: 700;}.author .author-facts { margin-bottom: 1rem;}.author .author-facts li { display: inline;}.author .author-facts li a { display: inline-block; background-color: #eceff1; width: 1.75rem; height: 1.75rem; line-height: 1.75rem; text-align: center; color: #333; font-size: .8rem; border-radius: 2px;}.author .author-facts li a:hover { color: #fff; background-color: #333;}.author .author-description { text-align: left; font-size: .8rem;}.author .author-description p { margin: .5rem 0;}.thumb { background-image: url(https://pumbers.github.io/game-manglement/images/default.jpg); background-size: cover; background-position: center; } .thumb-a46418457371c0505be26a4b5e4c0d7f { background-image: url(https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/hela_station.jpg); } .thumb-4cad1ef8ece17256d711818423b622d5 { background-image: url(https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/introduction.jpg); } .thumb-7fea81bed5ae95c0588730d73ce35020 { background-image: url(https://pumbers.github.io/game-manglement/articles/sta_fighters.jpg); } .thumb-82a9886e9c44d1afb5e16151e81e6414 { background-image: url(https://pumbers.github.io/game-manglement/posts/brass_game.jpg); } 
+      
+       body { font-family: Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif; } 
+       .h-logo { font-family: Lato; } 
+    </style>
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <div class="l-container">
+        <div class="logo">
+          <a href="https://pumbers.github.io/game-manglement/">Game Manglement</a>
+        </div>
+        
+<div class="description">
+  Thoughts and stuff for tabletop gaming
+</div>
+
+
+      </div>
+    </header>
+
+    <main>
+      <div class="l-container">
+        
+<div class="mrow">
+  <div class="mcol c8">
+
+    <article class="sn">
+
+  <div class="thumb thumb-5381dd58c6a8f2b7a7f8f843f5833622"></div>
+
+  <header class="article-header">
+    <h1 class="title">3D Printing: Basic Engineering</h1>
+
+    <ul class="facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2019-01-29T00:00:00JST">Jan 29, 2019</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="https://pumbers.github.io/game-manglement/articles/">ARTICLES</a></li>
+      
+    </ul>
+
+    <aside class="share">
+  
+  <a href="http://twitter.com/intent/tweet?url=https%3a%2f%2fpumbers.github.io%2fgame-manglement%2farticles%2f3d_engineering%2f&text=3D%20Printing%3a%20Basic%20Engineering&tw_p=tweetbutton" title="Twitter" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fpumbers.github.io%2fgame-manglement%2farticles%2f3d_engineering%2f&t=3D%20Printing%3a%20Basic%20Engineering" title="Facebook" class="fb" target="_blank" rel="nofollow"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+</aside>
+
+  </header>
+
+  
+
+  <div class="article-body">
+
+<p><em>Late last year (2018) I took the plunge and ordered up a 3D printer to help me with my tabletop gaming (and a few other things). I&rsquo;d had my eye on one for some time, but they always seemed way too expensive (in excess of $1,000 CAD) and I was unwilling to commit such an amount when I wasn&rsquo;t sure of the benefits. Two things changed my mind: firstly, I did a lot of research into what could and could not be achieved with a sub-$1,000 printer, and secondly the <a href="https://www.creality3d.cn/creality3d-ender-3-pro-p00251p1.html">Creality Ender 3 Pro</a> hit the market. Specificially, I came across articles and videos from Tom Tullis on his <a href="https://www.youtube.com/channel/UC5Lbnd97HV3rU98gcwHklzQ">Tomb of 3D Printed Horrors</a> YouTube channel which showed what can be achieved with a relatively cheap 3D printer (~$350 CAD), and so I was sold.</em></p>
+
+<p>I ordered one from a local supplier, <a href="https://spool3d.ca/">Spool 3D</a> - and here&rsquo;s my first key point: order and source locally if you can. You can order online, from Amazon or Creality directly, or any number of suppliers, but it&rsquo;s hard to be sure whether you&rsquo;re getting (in this case) a genuine Creality Ender 3 or one of the cheaper knock-offs with power supplies that burn up and cables that catch fire. That&rsquo;s not to say they&rsquo;re all bad, just that you can&rsquo;t be sure. Also, you&rsquo;re more likely to get support from a local supplier as they have more at stake than a distant online retailer and, for the most part, they have first-hand knowledge of the products they sell.</p>
+
+<p>I could have paid $315 CAD and ordered from Amazon, but I chose to pay $350 CAD and ordered from Spool 3D. Turns out to be well worth it because I&rsquo;ve been back to them a couple of times now and spoken to them about problems and upgrades, and taken at look at how they do things with their printers. I even got a free Pi camera cable from Richard<sup class="footnote-ref" id="fnref:0"><a href="#fn:0">1</a></sup> because they didn&rsquo;t have one in stock and he gave me one of his. Then I told him where he could get boxes of cheap metric nuts &amp; bolts. You don&rsquo;t get that kind of exchange of ideas with most online suppliers.</p>
+
+<p>On the other hand, they are a wee bit expensive where filament is concerned but I have no qualms ordering that online and risking $20-25.</p>
+
+<h2 id="basic-engineering">Basic Engineering</h2>
+
+<p>Online support for 3D printing, and the Ender 3 in particular, is freely available. There are any number of Facebook groups and YouTube channels out there where you can ask questions, get help and show others your successes. That said, I have noticed that in all of these groups I see the same questions being asked over and over again with the same myriad of answers, which can be incredibly frustrating for a lot of the more experienced folks as well as being confusing for any noobs.</p>
+
+<blockquote>
+<p>Now, a quick disclaimer. I&rsquo;m an ex-IBM Customer Engineer (80&rsquo;s and 90&rsquo;s). I&rsquo;ve worked on everything from typewriters, typesetters, printers, copiers, retail scanners &amp; terminals and System 34/36/38 to 3080 &amp; 3090 mainframes and IBM PC&rsquo;s, both hardware and software. I&rsquo;ve covered the most mechanical items (typewriters) to the pretty-much non-mechanical (PC&rsquo;s). For the last 25+ years I&rsquo;ve been a software developer. So, I would say have a fair amount of hands-on engineering experience.</p>
+</blockquote>
+
+<p>For anyone new to 3D printing (or any form of mechanized manufacturing, for that matter) I&rsquo;ll try to give you some basic engineering pointers that I work by and I hope will make your life easier.</p>
+
+<h3 id="understanding-not-just-knowledge">Understanding, Not Just Knowledge</h3>
+
+<p>The training course for the <a href="https://en.wikipedia.org/wiki/IBM_Selectric_typewriter">IBM Selectric Typewriter</a> back in 1983 was twelve weeks long and it didn&rsquo;t cover much of the kind of problems you get with the machine. What we did do was disassemble a typewriter and then put it back together. I think it had something on the order of 3,500 parts and we had to know what each one did and where it went. We dealt with tolerances of a few thousandths of an inch and rapidly moving parts that could nip a fingertip off if you put it in the wrong place. I remember we had to wear ties (IBM CE&rsquo;s always wore a suit and tie) but had to tuck them in our shirts so that they (and we) didn&rsquo;t get sucked into the machinery and strangled, and we couldn&rsquo;t wear any jewellery for fear of losing a finger. Happy days.</p>
+
+<p>When something didn&rsquo;t work, we had to figure out <strong>WHY</strong> it didn&rsquo;t work. Not by looking it up in a manual or by asking the instructor, but by understanding what it <em>should</em> be doing and then figuring out why it <em>wasn&rsquo;t</em>. The instructor would help, but they didn&rsquo;t give us the answers, they helped us understand.</p>
+
+<blockquote>
+<p>Occasionally, they would also get in 30 minutes before us in the morning and sabotage every machine so that even if we had everything working perfectly the day before it was broken now. As it turns out, exactly like real life once I was in the field.</p>
+</blockquote>
+
+<p>So, start by learning <strong>HOW</strong> a 3D printer works. Get to the point where you can identify and name each part of the printer and what it&rsquo;s function is. More to the point, try to understand what happens when that part <em>doesn&rsquo;t</em> function correctly.</p>
+
+<h4 id="spot-quiz">Spot Quiz</h4>
+
+<p>Go to your (FDM) printer now and point at the following parts, then say out loud what each one does:</p>
+
+<ol>
+<li>Nozzle</li>
+<li>Heat Break</li>
+<li>Heat Sink</li>
+<li>Extruder</li>
+<li>X-Gantry</li>
+<li>Heated Bed</li>
+</ol>
+
+<p>That&rsquo;s only six of the most important out of about 100 parts on your average printer so if you couldn&rsquo;t get all of them it&rsquo;s time to do some reading, but don&rsquo;t get too paranoid because some printers may not have a particular part. That&rsquo;s fine. It&rsquo;s important to know what your printer has and <em>doesn&rsquo;t</em> have.</p>
+
+<h4 id="google-is-your-friend">Google is your friend</h4>
+
+<p>Whenever a question is asked in an online group, it&rsquo;s inevitable the answer &ldquo;Jeez dude, could you not just Google the answer, it&rsquo;s right here in the archives from a year ago&rdquo; will appear somewhere, and it&rsquo;s very likely true. Most of the questions I see asked could be put on an FAQ list of maybe a dozen or so items.</p>
+
+<p>But, here&rsquo;s the thing: <strong>you can&rsquo;t search for the answer if you don&rsquo;t know what the question is</strong>.</p>
+
+<p>If you don&rsquo;t know your way around your printer and the terms used to describe it&rsquo;s basic parts then you&rsquo;re stuck with Googling for &ldquo;pointy brass thing gunks up when I print&rdquo;<sup class="footnote-ref" id="fnref:5"><a href="#fn:5">2</a></sup> or such-like. Once you&rsquo;ve learned some basic terms and the names of the different pats of the printer you can search for &ldquo;clogged nozzle&rdquo; instead, which yields not only more results but <em>better</em> results. You don&rsquo;t have to know everything out of the gate, nobody expects you to, but some basic knowledge will help your online searches and lead to fewer frustrated answers.</p>
+
+<h3 id="know-it-s-limitations">Know It&rsquo;s Limitations</h3>
+
+<p>If you&rsquo;ve purchased a sub-$1,000 printer, congratulations, you&rsquo;ve probably got a bargain.</p>
+
+<p>Now you need to understand that you have a complex set of low-cost electro-mechanical parts that will be working to micron-level tolerances for several hours a day almost every day (if you run your printer like most folks do) that collectively cost you (probably) less than $300. It&rsquo;s going to break down. It&rsquo;s going to produce some shitty prints. You&rsquo;re going to be spending a lot of your time trying to figure out why. Accept it. Live with it. Learn from it. Above all, try not to get stressed about it. 3D printing is not a plug-and-go consumer activity, it&rsquo;s for hobbyists. That&rsquo;s you, by the way.</p>
+
+<p>Take a deep breath and - I know this is going to be hard - treat every failure as an opportunity to <strong>LEARN</strong>. Going back to my earlier point: when you look at that shitty print, ask yourself &ldquo;where has this printer deviated from it&rsquo;s optimal functionality&rdquo;. Use those exact words, because they don&rsquo;t include any cursing and focus on how it went wrong rather than why the 3D gods have deserted you and how many dead chickens it&rsquo;s going to cost to win their favor again.</p>
+
+<blockquote>
+<p>In military slang there is the term <strong>TITSUP</strong> or Total Inability To Support Usual Performance. When your printer goes TITSUP, ask how, not why.</p>
+</blockquote>
+
+<h3 id="calibration">Calibration</h3>
+
+<p>The day has come, your new 3D printer has arrived, you&rsquo;ve taken it out of the box, built it and run the test dog print. It printed perfectly. Now you&rsquo;re trying one of your own prints aaaaand&hellip; it&rsquo;s like a bunch of spaghetti crap with blobs all over it. Why?</p>
+
+<p>Part of recognising when your printer is performing sub-optimally is to learn when it is performing optimally and the best way (I&rsquo;ve found) to do that is to run through various printer calibrations. Your printer was calibrated to factory settings before it was boxed, which doesn&rsquo;t mean it was calibrated for optimal performance at home - just that everything was set to a standard setting that should work after it&rsquo;s been put togther. That test dog gcode file has been tweaked so that it works well with those factory settings but anything you try to print may not.</p>
+
+<p>I won&rsquo;t go into too much detail, but there are three basic calibrations you&rsquo;ll need to carry out periodically:</p>
+
+<h4 id="printer-mechanics">Printer Mechanics</h4>
+
+<p>The mechanical moving parts of the printer will need an initial setup despite the factory settings. For an FDM printer, for example, this will mean running extrusion, XYZ axis motion and bed-levelling (more accurately called tramming) calibrations at the very least. You&rsquo;ll also need to check the printer frame for squareness and any moving parts for slack (ie: rattling loose) or binding (ie: sticking or jamming). These checks should be re-run periodically as the printer wears in normal use.</p>
+
+<p>Now, someone is going to say &ldquo;but you don&rsquo;t need to do X that often&rdquo;, and they&rsquo;re probably right. I dont <em>need</em> to but I think it&rsquo;s good practice - literally - to calibrate on a regular basis. The more often I carry out a procedure, the more practiced I am at it, the better I can perform it when I need to and I can recognize poor calibration when I see it.</p>
+
+<p>For my own part, I start each print-day with a bed level test and adjust while the test is running<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">3</a></sup>, briefly check other parts for slack or binding about once a week and run various calibrations about once a month or so - depending on how much I&rsquo;ve been printing.</p>
+
+<h4 id="gcode-preparation-slicing">GCode Preparation (slicing)</h4>
+
+<p>Every time you take an STL file you want to print you&rsquo;re going to be running it through some slicing software to produce the <a href="https://en.wikipedia.org/wiki/G-code">GCode</a> that controls the printer. That translation involves managing a bewildering number of variables almost all of which can affect the quality of the finished print. The good news is that quite often other folks have already experimented with a particular set of slicer settings for a particular purpose and they&rsquo;ll either be built into the software or available for download as <strong>profiles</strong>.</p>
+
+<p>That said, these profiles are a lot like the factory settings of your printer. They can be great for printing on a <a href="https://en.wikipedia.org/wiki/Platonic_idealism">platonic ideal</a> printer but not necessarily perfect for your printer. So, once again, try to learn what those slicer settings mean and what they change. Intentionally screw up some of those setting from time to time and see what happens to a standard test print - like the XYZ cube.</p>
+
+<h4 id="filament-or-resin-characteristics">Filament (or resin) characteristics</h4>
+
+<p>All filaments or resins are not the same, darn it. The chemical composition of a filament can affect the temperature you should print at, how quickly you can extrude it, retraction settings, print speed, non-print moves and so on. These characteristics will vary wildly with the different types of filament, but even if you only print with PLA something as inocuous as changing the colour can make a difference<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">4</a></sup>.</p>
+
+<p>As with slicer settings, try experimenting from time to time. When you try some new filament it&rsquo;s a good idea to print a <a href="https://www.thingiverse.com/thing:2493504">Temperature Tower</a> and a <a href="https://github.com/kickstarter/kickstarter-autodesk-3d">Printer Assessment Test</a> to determine the printing characteristics and optimal settings for the filament <strong>on your printer</strong>.</p>
+
+<h3 id="diagnose-methodically">Diagnose Methodically</h3>
+
+<p>When you do get a problem, like a crappy print or three, you need to exercise some restraint. Your instinct will be to dive in and start changing settings or adjusting things in the belief that when you change everything you <em>must</em> fix the problem first time. Believe me, that&rsquo;s really not the case. Chances are you&rsquo;ll only be making things worse. Instead&hellip;</p>
+
+<ol>
+<li>Consider what variables might be causing the problem (printer mechanics, slicer settings, etc)</li>
+<li>Change <strong>ONE</strong> variable and re-print <em>or</em> run a test print designed to highlight that particular problem<sup class="footnote-ref" id="fnref:3"><a href="#fn:3">5</a></sup>. Sometimes causing a problem or making it worse can help fix it.</li>
+<li>If it didn&rsquo;t fix it go back to #1</li>
+</ol>
+
+<p>Make a note every time you change something (see below) and be methodical about how you approach the problem. Look for a <a href="https://en.wikipedia.org/wiki/Root_cause_analysis">Root Cause</a> and not just a causal factor. For example, if your x-axis drive belt is loose you&rsquo;ll get poor alignment, banding and possible layer shifting. Slowing your print speed in the slicer settings may &ldquo;fix&rdquo; the problem but it&rsquo;s only a causal factor and not the root cause.</p>
+
+<p>This also emphasizes the importance of having a well-calibrated printer. If your printer <em>was</em> performing well and now it&rsquo;s not, you should be asking the question: <em>What changed?</em> The answer will probably give you your root cause. Don&rsquo;t be afraid to change something back to its original setting to see if the problem reoccurs. Once you find the <a href="http://catb.org/jargon/html/magic-story.html">magic switch</a>, you&rsquo;ll have solved the problem.</p>
+
+<h3 id="don-t-mod">Don&rsquo;t Mod</h3>
+
+<p>If you&rsquo;ve done some research you&rsquo;ll probably have come across articles or seen some videos on YouTube with titles like <a href="https://all3dp.com/1/20-must-creality-ender-3-upgrades-mods/">&ldquo;35 Must-Have Creality Ender 3 (Pro) Upgrades &amp; Mods in 2019&rdquo;</a>. Big Tip: <strong>Don&rsquo;t install ANY mods right away</strong>. Run the printer with the stock setup for a while - a few days or a few weeks even - and learn to calibrate for optimal performance using that stock setup.</p>
+
+<p>When you do come to install a mod, understand exactly <strong>WHY</strong> you&rsquo;re installing it. What problem are you trying to fix or what are you trying to improve on? Is the mod you&rsquo;re thinking of installing the best way to fix the problem you have? What are your expected results and how are you going to test for them?</p>
+
+<p>Installing too many mods at the same time is like changing multiple settings at the same time: best case you may fix the problem but you&rsquo;ll never know why, worst case you&rsquo;ll introduce another problem or two and you won&rsquo;t know why. In three months operation, I&rsquo;ve installed the following mods to my Ender 3:</p>
+
+<ul>
+<li>A desktop spool holder so that the filament doesn&rsquo;t have to do a ridiculous 180&deg; turn to enter the extruder</li>
+<li>A cable clip so that the hotend cabling doesn&rsquo;t catch on the bed as the two move around</li>
+<li>Clips on the bowden connectors to stop the tube from coming loose</li>
+<li>A back cover on the display so that I don&rsquo;t accidentally damage the electronics</li>
+<li>All metal extruder because the plastic one had already started to wear</li>
+<li>Adding Octoprint because I want to be able to remotely monitor and control the printer</li>
+</ul>
+
+<p>I&rsquo;ve not added any bed-levelling sensor, cable chains, stepper motor dampers or smoothers, changed the hot end, changed the cooling fans or ducts or switched to a glass bed. When I think I need to do any of those things, I&rsquo;ll do my research and <em>maybe</em> install them. But, for the moment, my prints are coming out just fine so I&rsquo;m not going to change anything<sup class="footnote-ref" id="fnref:6"><a href="#fn:6">6</a></sup>.</p>
+
+<h3 id="keep-a-notebook">Keep a Notebook</h3>
+
+<p>To paraphrase <a href="https://en.wikipedia.org/wiki/Adam_Savage">Adam Savage of Mythbusters</a>: the difference between engineering and screwing around is writing it down.</p>
+
+<p>Keep a notebook. Record your successes and failures and try to note why you think it went right or wrong. When you carry out any calibration, note the original settings, what you changed and what effect it had on your prints. When you print with a new filament, run those print tests and make a note of the settings - optimal temperature, extrusion tweaks, retractions settings, etc. Draw diagrams.</p>
+
+<p>You months from now will thank you from today for having written it all down clearly and concisely<sup class="footnote-ref" id="fnref:4"><a href="#fn:4">7</a></sup>.</p>
+
+<h3 id="keep-your-mistakes">Keep Your Mistakes</h3>
+
+<p>If I&rsquo;ve learned one thing about 3D printing using an FDM printer it&rsquo;s the fact you&rsquo;re going to throw a <em>lot</em> of filament away. All those little bits of crap that get printed out before a print, the skirts, brims and supports, and the failed prints.</p>
+
+<p>I keep a box of my failed prints for two reasons: firstly, it&rsquo;s a reminder that things don&rsquo;t always go as planned and I shouldn&rsquo;t get too upset when things go TITSUP (see above). Secondly, I refer back to my notebook and use those notes along with the failed prints to diagnose issues later on.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>So, that&rsquo;s it. I&rsquo;ve not been at the 3D printing game for long but I do have some experience as a hands-on engineer and I have found much of that applies to my new hobby. I hope these notes have been of use to someone out there, and please feel free to disagree and contribute to the discussion.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:0">Incidentally, you may want to check out Rich&rsquo;s YouTube Channel, <a href="https://www.youtube.com/channel/UCbqLaOyY9jLPO7oFH-uduNQ/featured">The First Layer</a>.
+ <a class="footnote-return" href="#fnref:0"><sup>[return]</sup></a></li>
+<li id="fn:5">Which actually work surprisingly well, yay Google!
+ <a class="footnote-return" href="#fnref:5"><sup>[return]</sup></a></li>
+<li id="fn:1">For anyone owning a 3D printer, bed levelling is a very personal matter. Some folks adjust using paper, some use feeler gauges, some prefer to abdicate responsibility to a touch sensor and software. It&rsquo;s also the first answer to the online question &ldquo;Why is my print so crappy?&rdquo; Personally, I prefer adjusting the bed by-eye while the test print is running and performing the levelling so often that it becomes second nature to me. Each to his own.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:2">Funny story there, but not now.
+ <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
+<li id="fn:3">On the Selectric typewriters, we used to diagnose a lot of [2D] print issues by typing the letters &ldquo;H&rdquo; and &ldquo;y&rdquo; because &ldquo;H&rdquo; covered the available print area well and &ldquo;y&rdquo; included a descender (the tail of the y). If those two letters worked, then the odds were good all the others would as well. No need to test every letter every time an adjustment was made.
+ <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
+<li id="fn:6">Except for maybe some new bed springs &lsquo;cos those gold ones just look cool.
+ <a class="footnote-return" href="#fnref:6"><sup>[return]</sup></a></li>
+<li id="fn:4">Yes, you can use an electronic notebook with photos if you like, but&hellip; I&rsquo;ve found that there is something very personal and <a href="https://www.merriam-webster.com/dictionary/visceral">visceral</a> about using a pen and paper. Taking the time to write things out longhand and draw diagrams <a href="https://www.sciencedaily.com/releases/2011/01/110119095458.htm">actually helps the memory and learning process</a>, and it&rsquo;s more fun. Also, by using a bound notebook, you&rsquo;re not so inclined to lose or delete anything.
+ <a class="footnote-return" href="#fnref:4"><sup>[return]</sup></a></li>
+</ol>
+</div>
+</div>
+
+  <footer class="article-footer">
+
+    <aside class="share">
+  
+  <a href="http://twitter.com/intent/tweet?url=https%3a%2f%2fpumbers.github.io%2fgame-manglement%2farticles%2f3d_engineering%2f&text=3D%20Printing%3a%20Basic%20Engineering&tw_p=tweetbutton" title="Twitter" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fpumbers.github.io%2fgame-manglement%2farticles%2f3d_engineering%2f&t=3D%20Printing%3a%20Basic%20Engineering" title="Facebook" class="fb" target="_blank" rel="nofollow"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+</aside>
+
+
+    <section class="footer">
+      <div>
+        <nav class="crumb">
+          <ol>
+            <li><a href="https://pumbers.github.io/game-manglement/"><i class="fa fa-home" aria-hidden="true"></i>TOP</a></li>
+            
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://pumbers.github.io/game-manglement/articles/" itemprop="url"><span itemprop="title">ARTICLES</span></a></li>
+            
+            <li class="active">3D Printing: Basic Engineering</li>
+          </ol>
+        </nav>
+      </div>
+    </section>
+
+    
+    
+    
+    <section class="footer">
+      <header>
+        <a href="https://pumbers.github.io/game-manglement/categories/">CATEGORIES</a>
+      </header>
+      <div>
+        <ul class="terms">
+          
+          <li><a href="https://pumbers.github.io/game-manglement/categories/3d-printing/">3D Printing</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+    
+    <section class="footer">
+      <header>
+        <a href="https://pumbers.github.io/game-manglement/tags/">TAGS</a>
+      </header>
+      <div>
+        <ul class="terms">
+          
+          <li><a href="https://pumbers.github.io/game-manglement/tags/3d-printing/">3D Printing</a></li>
+          
+          <li><a href="https://pumbers.github.io/game-manglement/tags/engineering/">Engineering</a></li>
+          
+          <li><a href="https://pumbers.github.io/game-manglement/tags/tabletop-gaming/">Tabletop Gaming</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+  </footer>
+
+</article>
+
+
+    <div class="adj">
+      <div class="mrow">
+        
+        <div class="mcol c6">
+          <header>Previous Article</header>
+          <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/articles/sta_fighters/">
+    <div class="thumb thumb-7fea81bed5ae95c0588730d73ce35020"></div>
+
+    <div class="inner">
+      <div class="title">Star Trek Adventures: Fighters</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2018-11-03T00:00:00JST">Nov 3, 2018</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>ARTICLES</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+        </div>
+        
+        
+      </div>
+    </div>
+
+    
+  </div>
+  <div class="mcol c4">
+    <aside class="l-sidebar">
+
+  <div class="sections sidebar">
+    
+<section class="sidebar">
+  <header>AUTHOR</header>
+  <div>
+    <div class="author">
+      
+      <div class="author-thumb" style="background-image: url(https://pumbers.github.io/game-manglement/images/author.png);"></div>
+      
+      <div class="author-name">Paul Umbers</div>
+      <ul class="author-facts">
+        <li><a href="https://www.facebook.com/paul.umbers" rel="nofollow" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/JustPaulU?lang=en" rel="nofollow" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+        
+        <li><a href="https://mewe.com/profile/5bbd11ab2ee15f2bb8b1e7f0" rel="nofollow" target="_blank"><i class="fas fa-dice-d20" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      <div class="author-description">Board and tabletop RPG gamer for over 40 years and general mis-manager of my time and effort in writing for RPGs, so here's some thoughts and stuff.</div>
+    </div>
+  </div>
+</section>
+
+
+    <section class="sidebar">
+  <header>LATEST</header>
+  <div>
+    <div class="articles sm">
+      
+      <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/articles/3d_engineering/">
+    <div class="thumb thumb-5381dd58c6a8f2b7a7f8f843f5833622"></div>
+
+    <div class="inner">
+      <div class="title">3D Printing: Basic Engineering</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2019-01-29T00:00:00JST">Jan 29, 2019</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>ARTICLES</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+      
+      <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_1/">
+    <div class="thumb thumb-a46418457371c0505be26a4b5e4c0d7f"></div>
+
+    <div class="inner">
+      <div class="title">Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 1</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2019-01-14T00:00:00JST">Jan 14, 2019</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>CAMPAIGNS</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+      
+      <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/introduction/">
+    <div class="thumb thumb-4cad1ef8ece17256d711818423b622d5"></div>
+
+    <div class="inner">
+      <div class="title">Welcome to The Ten Thousand Worlds</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2019-01-07T00:00:00JST">Jan 7, 2019</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>CAMPAIGNS</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+      
+      <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/articles/sta_fighters/">
+    <div class="thumb thumb-7fea81bed5ae95c0588730d73ce35020"></div>
+
+    <div class="inner">
+      <div class="title">Star Trek Adventures: Fighters</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2018-11-03T00:00:00JST">Nov 3, 2018</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>ARTICLES</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+      
+      <article class="lism">
+  <a href="https://pumbers.github.io/game-manglement/posts/brass_review/">
+    <div class="thumb thumb-82a9886e9c44d1afb5e16151e81e6414"></div>
+
+    <div class="inner">
+      <div class="title">Brass: Kickstarter Edition, Review</div>
+
+      <ul class="facts sm">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2018-10-20T00:00:00JST">Oct 20, 2018</time></li>
+        <li><i class="fa fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+      
+    </div>
+  </div>
+</section>
+
+    
+<section class="sidebar">
+  <header>CATEGORIES</header>
+  <div>
+    <ul class="terms">
+      <li><a href="https://pumbers.github.io/game-manglement/categories/role-playing-games">role-playing-games <span class="count">(3)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/categories/3d-printing">3d-printing <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/categories/board-games-games">board-games-games <span class="count">(1)</span></a></li>
+    </ul>
+  </div>
+</section>
+
+
+
+    
+<section class="sidebar">
+  <header>TAGS</header>
+  <div>
+    <ul class="terms">
+      <li><a href="https://pumbers.github.io/game-manglement/tags/black-hack">black-hack <span class="count">(2)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/gold-piece-publications">gold-piece-publications <span class="count">(2)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds">ten-thousand-worlds <span class="count">(2)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/3d-printing">3d-printing <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/engineering">engineering <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/kickstarter">kickstarter <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/modiphius">modiphius <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/star-trek-adventures">star-trek-adventures <span class="count">(1)</span></a></li><li><a href="https://pumbers.github.io/game-manglement/tags/tabletop-gaming">tabletop-gaming <span class="count">(1)</span></a></li>
+    </ul>
+  </div>
+</section>
+
+
+
+  </div>
+
+</aside>
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="l-container">
+        <p><span class="h-logo">Original content &copy; Game Manglement (Paul Umbers)</span></p>
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p>Custom theme based on <a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+

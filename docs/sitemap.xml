@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pumbers.github.io/game-manglement/articles/3d_engineering/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_1/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
   </url>
@@ -23,8 +28,20 @@
   </url>
   
   <url>
+    <loc>https://pumbers.github.io/game-manglement/tags/3d-printing/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/categories/3d-printing/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pumbers.github.io/game-manglement/articles/</loc>
-    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +65,19 @@
   
   <url>
     <loc>https://pumbers.github.io/game-manglement/categories/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/tags/engineering/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pumbers.github.io/game-manglement/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,8 +118,14 @@
   </url>
   
   <url>
+    <loc>https://pumbers.github.io/game-manglement/tags/tabletop-gaming/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pumbers.github.io/game-manglement/tags/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
