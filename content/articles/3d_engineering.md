@@ -1,7 +1,7 @@
 ---
 title: "3D Printing: Basic Engineering"
 date: 2019-01-29
-#thumbnail: "articles/cypher_magic_1_thumbnail.jpg"
+thumbnail: "articles/3d_engineering.png"
 categories: ["3D Printing"]
 tags: ["3D Printing", "Engineering", "Tabletop Gaming"]
 draft: false
