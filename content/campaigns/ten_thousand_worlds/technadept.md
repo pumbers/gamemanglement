@@ -1,10 +1,10 @@
 ---
 title: "The Ten Thousand Worlds: Technadepts"
-date: 2019-01-14
+date: 2019-01-30
 thumbnail: "campaigns/ten_thousand_worlds/technadept.png"
 categories: ["Role Playing Games"]
-tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
-draft: true
+tags: ["Cypher System", "Monte Cook Games", "Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
+draft: false
 ---
 
 _Cybernetics in the 10K are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
@@ -14,6 +14,47 @@ _Cybernetics in the 10K are pretty common, usually used to replace damaged or mi
 > We are dreamers, shapers, singers, and makers. We study the mysteries of laser and circuit, crystal and scanner, holographic demons and invocation of equations. These are the tools we employ, and we know many things. The true secrets, the important things. Fourteen words to make someone fall in love with you forever. Seven words to make them go without pain. How to say good-bye to a friend who is dying. How to be poor. How to be rich. How to rediscover dreams when the world has stolen them.
 
 > Elric - Babylon 5, The Geometry of Shadows
+
+## Cypher System
+
+### Character Type
+
+The *Cypher System* **Adept** character type can be used unchanged from the core rulebook, with the caveat that innate abilities attributed to "magic" must have some form of advanced technology behind them. For example, **Hedge Magic** can be attributed to any number of minor, low-power implants which create holograms or use magnetic force to levitate objects. **Onslaught** is almost certainly a weapon implant of some sort and **Scan** refers to a number of enhanced sensory implants linked to an AI analysis unit connected to the central nervous system.
+
+When a Player chooses an ability for their character, the GM should have them specify *how* the effects are created and roughly what form of technology is involved.
+
+Stat pools and starting attributes are as described in the *Cypher System Core Rulebook*.
+
+### Character Descriptor
+
+Any Character Descriptor for Cypher System can be applied to Technadepts in the 10K.
+
+### Character Focus
+
+Any Character Focus can be used *if the Player can come up with a suitable explanation for how the effects are generated*, however the following focuses are particularly applicable to Technadepts in the 10K:
+
+| **CYPHER SYSTEM RULEBOOK**|||
+|:--|:--|:--|
+Battles Robots|Builds Robots|Calculates the Incalculable
+Commands Mental Powers|Conducts Weird Science|Doesn’t Do Much
+Entertains|Fights Dirty|Fights with Panache
+Focuses Mind Over Matter|Fuses Flesh and Steel |Fuses Mind and Machine
+Infiltrates|Interprets the Law |Is Idolized by Millions
+Looks for Trouble|Masters Defense|Masters Weaponry
+Moves Like a Cat|Murders |Needs No Weapon 
+Never Says Die|Operates Undercover|Pilots Starcraft
+Siphons Power|Solves Mysteries|Talks to Machines
+Works the Back Alleys|Works the System|Would Rather Be Reading 
+|**EXPANDED WORLDS**|||
+Conducts Rocket Science|Hacks Networks|Loves the Void
+Negotiates Matters of Life and Death|Resides in Silicon|Serves in an Elite Military Squad
+Transcends Humanity|Works for a Living	
+
+### Cyphers
+
+Cyphers and Artifacts in the 10K take the same form as in **Numenera**, they are advanced technology akin to magic. Whether Cyphers are man-made and just highly advanced or relics of previous alien occupations of the 10K is up to the GM. Repairing and building Cyphers is possible, just use the crafting rules from Numenera and particularly from **Numenera Destiny** where new Cyphers can be constructed from *Iota* - the scrap left behind by alien civilisations.
+
+## The Black Hack
 
 ### Starting Stats
 

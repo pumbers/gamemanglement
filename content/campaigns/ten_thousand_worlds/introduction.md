@@ -7,9 +7,7 @@ tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
 draft: false
 ---
 
-_The Ten Thousand Worlds (work-in-progress) is an adaptation of David Black’s (in)famous [Black Hack RPG (2nd Edition)](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to a futuristic science fantasy setting. A copy of the Black Hack 2e is required for the basic rules but available character classes and details of ships & equipment will be included along with a detailed background to adventure in._
-
-_If you want to get a feel for life in the 10K, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and a fair bit of The Expanse._
+_The Ten Thousand Worlds is a (work-in-progress) futuristic science fantasy setting. If you want to get a feel for life in the 10K, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and Farscape and a fair bit of The Expanse._
 
 ## Introduction
 

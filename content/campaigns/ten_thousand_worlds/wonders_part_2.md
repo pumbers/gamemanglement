@@ -1,6 +1,6 @@
 ---
 title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 2"
-date: 2019-01-14
+date: 2019-01-30
 thumbnail: "campaigns/ten_thousand_worlds/red_moon.jpg"
 categories: ["Role Playing Games"]
 tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
@@ -10,6 +10,12 @@ draft: true
 _There are many mysteries, wonders and dangers in the ***Ten Thousand Worlds***, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead._
 
 _Welcome to the Ten Thousand Worlds._
+
+## The Vylk Enclave
+
+Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
+
+Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
 
 ## Takowa Anchorage
 
@@ -55,12 +61,6 @@ Located across the L1 zone between the L4 and L5 points, the Berangu Passage is 
 
 Although narrow by the standards of open space, the passage is still tens of thousands of kilometers wide.
 Somewhere near the center is Solnos, the home of the Red Moon Confederacy.
-
-## The Vylk Enclave
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
 
 ## The Braecia Dynasty
 
