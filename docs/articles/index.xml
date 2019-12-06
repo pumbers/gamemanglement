@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/articles/</link>
+    <description>Recent content in Articles on Game Manglement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pumbers.github.io/game-manglement/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Star Trek Adventures: Search and Rescue</title>
+      <link>https://pumbers.github.io/game-manglement/articles/sta_sar/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/articles/sta_sar/</guid>
+      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&#39;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
+    </item>
+    
+    <item>
+      <title>Star Trek Adventures: Fighters</title>
+      <link>https://pumbers.github.io/game-manglement/articles/sta_fighters/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/articles/sta_fighters/</guid>
+      <description>The Command Division sourcebook for Star Trek Adventures includes, almost hidden away in the Federation Small Craft chapter, the details of the Federation Attack Fighter, also called the Zabathu1 class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more capital ships which make up the vast majority of any faction’s fleet.</description>
+    </item>
+    
+  </channel>
+</rss>
