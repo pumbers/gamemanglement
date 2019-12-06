@@ -12,7 +12,6 @@ _A few years ago, I had a dream. I left the home I shared with my wife, Lorraine
 Since then, for no connected reason I’ve taken to watching physics lectures on YouTube - particularly relating to the wonderful world of Quantum Field Theory and the like. Some of those concepts have connected in my brain to that earlier dream and formed the basis of an RPG setting.
 
 > Are you going away with no word of farewell, will there be not a trace left behind?
-
 > The Last Thing On My Mind, Tom Paxton, 1964
 
 ## What Is Happening?
