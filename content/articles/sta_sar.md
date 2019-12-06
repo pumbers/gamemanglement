@@ -1,13 +1,13 @@
 ---
 title: "Star Trek Adventures: Search and Rescue"
-date: 2018-11-16
+date: 2019-07-16
 thumbnail: "articles/sta_norway_class.jpg"
 categories: ["Role Playing Games"]
 tags: ["Star Trek Adventures", "Modiphius"]
-draft: true
+draft: false
 ---
 
-_The **Star Trek Adventures: Command Division** sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Amongst them is the **Norway Class**, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what's it like being on the crew of one of these ships, what adventures can you have and how do you handle them?_
+_The **Star Trek Adventures: Command Division** sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the **Norway Class**, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what's it like being on the crew of one of these ships, what adventures can you have and how do you handle them?_
 
 ## Norway Class Overview
 
