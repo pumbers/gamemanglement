@@ -23,7 +23,7 @@ And then I happened upon the [Classical Elements Expansion](https://github.com/H
 
 I liked it, so I contacted Matt and got his permission to use the idea in an RPG.
 
-{{% img src="images/cypher/cypher_magic_chart.png" caption="Image referenced from Github, courtesy Matthew Barber (Honno)" href="https://github.com/Honno/classical-elements-expansionn"%}}
+{{% figure src="../cypher_magic_chart.png" caption="Image referenced from Github, courtesy Matthew Barber (Honno)" link="https://github.com/Honno/classical-elements-expansionn"%}}
 
 It had the same elements (pun intended) as classical elemental magic - **Earth**, **Air**, **Fire** and **Water** referred to as **first-order** or **Fundamental** elements - but then (as the name suggests) it expands on the available elements by mixing these fundamentals into **second-order Terrestrial** elements and adding **third-order Celestial** elements. The **fourth-order** elements are usually referred to as **Origin** and are the source of all magic. In game terms, magic can have any origin - I'm not telling you what mine is because that would just ruin it for the players and isn't really important yet.
 

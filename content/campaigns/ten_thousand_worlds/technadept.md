@@ -9,7 +9,7 @@ draft: false
 
 _Cybernetics in the 10K are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
 
-{{% img src="campaigns/ten_thousand_worlds/heroforge_technadept.png" caption="Character designed on Heroforge" href="https://www.heroforge.com/" %}}
+{{% figure src="../heroforge_technadept.png" caption="Character designed on Heroforge" link="https://www.heroforge.com/" %}}
 
 > We are dreamers, shapers, singers, and makers. We study the mysteries of laser and circuit, crystal and scanner, holographic demons and invocation of equations. These are the tools we employ, and we know many things. The true secrets, the important things. Fourteen words to make someone fall in love with you forever. Seven words to make them go without pain. How to say good-bye to a friend who is dying. How to be poor. How to be rich. How to rediscover dreams when the world has stolen them.
 

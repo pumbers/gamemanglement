@@ -29,7 +29,7 @@ The system is a trinary (three stars) with the two main stars, ***Clotho*** and 
 
 The orbital mechanics of the binary pair, while complicated, actually result in a simple layout for the system – especially with virtually no planets around to muck things up.
 
-{{% img src="campaigns/ten_thousand_worlds/lagrange_points.png" caption="Lagrange Points in a Binary System" %}}
+{{% figure src="../lagrange_points.png" caption="Lagrange Points in a Binary System" %}}
 
 The binaries have five gravitationally stable points – called ***Lagrange Points*** – numbered L1 through L5. Points L2 through L5 are mostly free of hazards (other than free-floating asteroids), and this is where the bulk of the colonies are located.  The L1 point, located directly between the binary pair, is a region of intense radition and superheated gas clouds which is even more inhospitable to life than empty space. That’s not to say there are no colonies here though, they’re just really, really well built.
 Between L4 and L5 and across L1 is a “quiet zone” in the gas and radiation which allows relatively safe passge between those two points – an area called the ***Berangu Passage***.

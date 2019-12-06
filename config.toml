@@ -23,3 +23,6 @@ baseUrl = "https://pumbers.github.io/game-manglement/"
 
 [outputs]
 page = [ "HTML"] # if you want AMP enable.
+
+[markup.goldmark.renderer]
+unsafe = true

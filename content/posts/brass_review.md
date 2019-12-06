@@ -21,13 +21,13 @@ The Kickstarter for an updated edition, along with a brand new variant of the ga
 
 The Kickstater edition contains all the stretch goals from the campaign and is sold at retail as the **deluxe edition**. This includes upgraded cardboard components, clay poker chips for cash, alternate card art and linen finish cards and boards. Judging by the weight of the boxes alone, that's a lot of game.
 
-{{% img src="http://i.imgur.com/sOIFRzT.jpg" caption="Image referenced from Kickstarter" href="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
+{{% figure src="http://i.imgur.com/sOIFRzT.jpg" caption="Image referenced from Kickstarter" link="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
 
 The artwork overall is gorgeous and represents both the period and the game really well, although if I have one criticism it's that the boards can be quite dark and somewhat crowded making them difficult to read at times. Both gameboards have a light side and dark side, but whichever side you use you'll certainly want the room to be brightly lit. 
 
 Filling the box to the brim are the gameboards themselves, 46 player tiles for each player representing the various industries (which vary between the two games), a deck of industry and location cards, and other play components including small wooden beer barrels, canal & rail links, coal and iron cubes, player cash & victory point markers and the rulebooks.
 
-{{% img src="http://i.imgur.com/kCWNCRx.jpg" caption="Image referenced from Kickstarter" href="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
+{{% figure src="http://i.imgur.com/kCWNCRx.jpg" caption="Image referenced from Kickstarter" link="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
 
 ###  Gameplay
 
@@ -49,7 +49,7 @@ Just as it was historically, the advent of rail and the resulting obsolescence o
 
 _Fun Fact: Birmingham (seriously, the original one in England, not the one in Alabama) to this day has more miles of canal than Venice, Italy._
 
-{{% img src="http://i.imgur.com/4BkR8Uk.jpg" caption="Image referenced from Kickstarter" href="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
+{{% figure src="http://i.imgur.com/4BkR8Uk.jpg" caption="Image referenced from Kickstarter" link="https://www.kickstarter.com/projects/roxley/brass-an-industrial-revolution"%}}
 
 ### Variations
 
