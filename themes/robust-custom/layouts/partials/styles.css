@@ -741,7 +741,7 @@ section.footer>header a {
   
   {{ range $p := .Site.RegularPages }}
   {{ with $p.Params.thumbnail }}
-  .thumb-{{ $p.UniqueID }} {
+  .thumb-{{ $p.File.UniqueID }} {
     {{ if hasPrefix . "http"}}
     background-image: url({{ . }});
     {{ else }}

@@ -1,6 +1,6 @@
 <article class="li">
   <a href="{{ .Permalink }}">
-    <div class="thumb thumb-{{ .UniqueID }}"></div>
+    <div class="thumb thumb-{{ .File.UniqueID }}"></div>
 
     <div class="inner">
       <h2 class="title">{{ .Title }}</h2>
@@ -13,7 +13,7 @@
       <ul class="facts">
         {{ if .Site.IsServer }}
           <li><i class="fa fa-weight" aria-hidden="true"></i>{{ lang.NumFmt 0 .WordCount }} WORDS</li>
-          {{ if .IsDraft }}
+          {{ if .Draft }}
             <li><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i></li>
           {{ end }}
         {{ end }}

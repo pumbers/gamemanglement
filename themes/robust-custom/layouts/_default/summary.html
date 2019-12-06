@@ -1,6 +1,6 @@
 <article class="sn">
 
-  <div class="thumb thumb-{{ .UniqueID }}"></div>
+  <div class="thumb thumb-{{ .File.UniqueID }}"></div>
 
   <header class="article-header">
     <h1 class="title">{{ .Title }}</h1>
@@ -10,7 +10,7 @@
       {{ with .Section }}<li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/">{{ . | upper }}</a></li>{{ end }}
       {{ if .Site.IsServer }}
       <li><i class="fa fa-weight" aria-hidden="true"></i>{{ lang.NumFmt 0 .WordCount }} WORDS</li>
-      {{ if .IsDraft }}<li style="color: red" ><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i> DRAFT</li>{{ end }}
+      {{ if .Draft }}<li style="color: red" ><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i> DRAFT</li>{{ end }}
       {{ end }}
     </ul>
 
