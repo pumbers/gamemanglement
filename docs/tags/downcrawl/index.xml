@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downcrawl on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/tags/downcrawl/</link>
+    <description>Recent content in Downcrawl on Game Manglement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pumbers.github.io/game-manglement/tags/downcrawl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Downcrawl: Session One</title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</guid>
+      <description>When we first met our heroes, they were already well on the way to making a name for themselves. Sherman, Cuthmar, Eirik and Celiophane had taken on the task of rescuing a local merchant’s daughter from a band of marauding goblins, tracked the goblins to their cave-lair and fought their way to the goblin shaman who was about to make a blood sacrifice of the young girl. They figured they’d won, but with his dying breath the shaman uttered a dire curse.</description>
+    </item>
+    
+  </channel>
+</rss>
