@@ -2,9 +2,9 @@
 title: "Brass: Kickstarter Edition, Review"
 date: 2018-10-20
 thumbnail: "posts/brass_game.jpg"
-categories: ["Board Games Games"]
+categories: ["Board Games","Reviews"]
 tags: ["Kickstarter"]
-draft: false
+draft: true
 ---
 
 _Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games._
