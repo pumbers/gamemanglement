@@ -6,10 +6,19 @@
     <description>Recent content on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chivalry &amp; Sorcery - 5th Edition, First Read</title>
+      <link>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</guid>
+      <description>In recent years, we&#39;ve seen a lot of early RPGs, such as Traveller and Runequest, resurrected in new editions with cleaner rules and more modern presentation which, for the most part, have retained the original feel of the game. Chivalry &amp;amp; Sorcery has seen several editions over the years, the last almost 20 years ago in 2000 (not counting the 2011 &amp;ldquo;Essence&amp;rdquo; release which was only 44 pages). Now, following a successful Kickstarter, a new 5th Edition has returned at a whopping 602 pages.</description>
+    </item>
     
     <item>
       <title>Downcrawl: Session One</title>
@@ -67,15 +76,6 @@ The Human Race, knowing the end was coming, migrated en masse to a new home.</de
       
       <guid>https://pumbers.github.io/game-manglement/articles/sta_fighters/</guid>
       <description>The Command Division sourcebook for Star Trek Adventures includes, almost hidden away in the Federation Small Craft chapter, the details of the Federation Attack Fighter, also called the Zabathu1 class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more capital ships which make up the vast majority of any faction’s fleet.</description>
-    </item>
-    
-    <item>
-      <title>Brass: Kickstarter Edition, Review</title>
-      <link>https://pumbers.github.io/game-manglement/posts/brass_review/</link>
-      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/posts/brass_review/</guid>
-      <description>Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games.</description>
     </item>
     
   </channel>

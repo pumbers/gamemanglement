@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
+    <loc>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/tags/kickstarter/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/posts/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/categories/reviews/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,21 +54,6 @@
   
   <url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -105,26 +125,6 @@
   <url>
     <loc>https://pumbers.github.io/game-manglement/articles/sta_fighters/</loc>
     <lastmod>2018-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/board-games-games/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/posts/brass_review/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/tags/kickstarter/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/posts/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
