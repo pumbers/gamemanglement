@@ -54,7 +54,7 @@ Magick falls somewhere between D&D and Tolkien. Mages must choose their *Mode* o
 
 While it's possible to cast spells on-the-fly (say, in combat), and even to make up spells on-the-spot, mages really excel when they have the time (minutes to days or weeks) to cast bigger spells. Want a tornado to wipe out your opposing army? No problem, you just need plenty of warning. There's no forgetting of spells once they're cast (I hate Vancian Magic) but it does cost fatigue and/or body to cast or enchant, and that can kill in the long run. Luckily, mages can get help by carrying out their rituals in special places or by drawing on the abilities of apprentices and other mages for the big rituals.
 
-There's also not much stopping a mage from learning to fight, other than the fact they'll be burning valuable spell development time swinging weapons around.[^3]
+There's also not much stopping a mage from learning to fight, other than the fact they'll be burning valuable spell development time swinging weapons around.[^2]
 
 > A ‘miracle’ is the Divine response to the plea, “Oh, great and powerful Divine Being . . . DO SOMETHING!” - pp447
 
@@ -62,7 +62,7 @@ Religion is presented in similar detail, but whereas mages must study to progres
 
 > The Kingdom of Cockaigne is formed of a number of landholders, one of whom is Sir Nemo. He maintains a Large Fortified Manor House V (LFMH 5) and has sub-tenants holding a Small Fortified Manor House II (SFMH II) and eight Small Fortified Manor House I (SFMH I).
 
-The chapters on building a campaign world essentially comes down to creating a medieval fiefdom and populating it with NPCs. It would certainly be possible (and probably quite fun) to have a group of characters based around a Lord's holding and to actually run the estate over long periods of time. Such a campaign is made more useful by the fact that characters can advance not only by earning _Experience Points_ but also by learning and training in their downtime - mages in particular.[^2]
+The chapters on building a campaign world essentially comes down to creating a medieval fiefdom and populating it with NPCs. It would certainly be possible (and probably quite fun) to have a group of characters based around a Lord's holding and to actually run the estate over long periods of time. Such a campaign is made more useful by the fact that characters can advance not only by earning _Experience Points_ but also by learning and training in their downtime - mages in particular.[^3]
 
 The final chapters cover NPCs and the Bestiary. I did notice an emphasis on natural creatures, undead and the fae (faeries, including goblins, the sidhe and faerie beasts), but while the creatures covered are focused on those found in medieval European folklore their statistics are simple enough that conversion of "fancier" creatures from other games wouldn't be too hard - although I think the flavor of the game would suffer.
 
@@ -77,6 +77,7 @@ If you're an old (age and time spent playing) C&S player then you'll recognize a
 
 [^1]: The "Red Book" is still available online as a PDF - if you can find it - in an unauthorized edition compiled from not only the original Red Book itself but several of its supplements, by fans. Its last incarnation (that I know of) was the 7th edition, and clocked in at an enormous 964 pages.
 
-[^2]: A quick shout out here to Adrian Hall, an old friend of mine who ran a multi-year C&S 1st edition campaign based in his own world of Aquilande. I forget how many years we played that game, but it covered a fair time IRL and decades in game. In that time we died (a lot, but somehow the gods always wanted us to come back for more), took a whiz miles high off the edge of the Bridge of the Gods, defeated more than one Daughter of the demon Gwy'stil, watched Karsten the Mage (actually, he was a Necromancer, but we didn't talk about that because he was a friend) build the tower that withstood the assault of several armies (because of the aforementioned necromancy) and passed on our holdings to at least one generation of our children (two in one case).
+[^2]: The mage in our campaign, Karsten, was a fierce swordsman - better than a lot of the fighter PCs in the campaign and well able to hold his own against multiple opponents in a fight. The only reason he learned to fight was that he didn't want to burn off fatigue casting "little" spells, he'd save that for the army-wiping-out spells.
 
-[^3]: The aforementioned mage, Karsten, was a fierce swordsman - better than a lot of the fighter PCs in the campaign and well able to hold his own against multiple opponents in a fight. The only reason he learned to fight was that he didn't want to burn off fatigue casting "little" spells, he'd save that for the army-wiping-out spells.
+[^3]: A quick shout out here to Adrian Hall, an old friend of mine who ran a multi-year C&S 1st edition campaign based in his own world of Aquilande. I forget how many years we played that game, but it covered a fair time IRL and decades in game. In that time we died (a lot, but somehow the gods always wanted us to come back for more), took a whiz miles high off the edge of the Bridge of the Gods, defeated more than one Daughter of the demon Gwy'stil, watched Karsten the Mage (actually, he was a Necromancer, but we didn't talk about that because he was a friend) build the tower that withstood the assault of several armies (because of the aforementioned necromancy) and passed on our holdings to at least one generation of our children (two in one case).
+
