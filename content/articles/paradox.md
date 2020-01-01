@@ -1,6 +1,6 @@
 ---
 title: "Setting: Paradox"
-date: 2019-02-08
+date: 2019-12-27
 thumbnail: "articles/paradox.jpg"
 categories: ["Role Playing Games"]
 tags: ["Setting"]
@@ -9,10 +9,9 @@ draft: true
 
 _A few years ago, I had a dream. I left the home I shared with my wife, Lorraine, for some reason - probably to go to work. When I came back, the house wasn’t there. The houses to either side of ours were there, but ours just wasn’t, and nor was my wife. Nobody in the area knew me or remembered either of us, but other friends and family did and they maintained that I’d never been married and lived somewhere else. It was a really weird and, frankly, terrifying dream and it stuck with me._
 
-Since then, for no connected reason I’ve taken to watching physics lectures on YouTube - particularly relating to the wonderful world of Quantum Field Theory and the like. Some of those concepts have connected in my brain to that earlier dream and formed the basis of an RPG setting.
+Since then, for no connected reason, I’ve taken to watching physics lectures on YouTube - particularly relating to the wonderful world of Quantum Field Theory and the like. Some of those concepts have connected in my brain to that earlier dream and formed the basis of an RPG setting.
 
-> Are you going away with no word of farewell, will there be not a trace left behind?
-> The Last Thing On My Mind, Tom Paxton, 1964
+> Are you going away with no word of farewell, will there be not a trace left behind? - The Last Thing On My Mind, Tom Paxton, 1964
 
 ## What Is Happening?
 
