@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pumbers.github.io/game-manglement/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Role Playing Games</title>
+      <link>https://pumbers.github.io/game-manglement/categories/role-playing-games/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/categories/role-playing-games/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reviews</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/categories/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Role Playing Games</title>
-      <link>https://pumbers.github.io/game-manglement/categories/role-playing-games/</link>
-      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/categories/role-playing-games/</guid>
       <description></description>
     </item>
     
