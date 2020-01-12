@@ -16,7 +16,7 @@ Waking, who knows how long after, they found themselves in a dark tunnel lit onl
 In relative safety, the party made their way along the tunnel towards a distant blue light and a strange roaring noise, but unfortunately Cuthmar becomes separated from them in the dim light. Hope remains high that they will meet again soon.
 
 Emerging from the end of the tunnel, the party beheld an awe inspiring sight. They stood on a ledge overlooking a massive circular shaft rising up and down further than the eye could see; hundreds of feet away, a waterfall originating far above fell down through the centre of the shaft, its fate lost in the darkness. And there, clinging to the sides of the shaft, shrouded in that mysterious ambient blue light was, to all appearances, a town. Platforms cantilevered from the sides of the shaft or suspended from rock overhangs hung over the unfathomable depths; connected by wood and rope bridges, ladders and zip-lines were an uncountable number of tents, shacks and larger buildings; and the place was alive with… people?
-Making their way down a spiralling ledge towards the town, the party made their way into Bone Falls.
+Making their way down a spiraling ledge towards the town, the party made their way into Bone Falls.
 
 Unlike any town they had ever seen before, Bone Falls was truly unusual. While most of the people there were… people, a good number were considerably stranger. Making their way across bridges between platforms the party saw tall gangly apes, walking upright and carrying bags and packs - apparently peddling wares in the street; a card game  was being led by a giant clam-like creature with legs that looked more like arms and unnervingly human eyeballs poking out from its shell; humans with tree bark covering their skin and branches growing from their heads shopped at passing stalls.
 
@@ -28,12 +28,13 @@ They also learned from Athild that she must leave Bone Falls soon, because no on
 
 Following Athild's directions, the party made their way to the upper levels - meeting Chunkle, the elevator boy along the way. Using their newly acquired keys, they managed to find an unoccupied shack to rest in. The blue light from the Fuzz outside faded as they fell asleep to the relentless roaring of the waterfall.
 
-Rested and recovered, their armour repaired and their wits together, the next day the party headed out looking for a way to earn more keys… and possibly some food. On the way, they found out that travelling down was easier, if a little more painful, than travelling up and resolved to use the elevators whenever they could afford to.
+Rested and recovered, their armor repaired and their wits together, the next day the party headed out looking for a way to earn more keys… and possibly some food. On the way, they found out that traveling down was easier, if a little more painful, than traveling up and resolved to use the elevators whenever they could afford to.
 
 Dropping by Dangles, a bar where all the chairs and tables are suspended by chains from a cantilevered platform above the abyss, Erik and Celiophane decided they would look for work elsewhere (“Fuck that!”, said Eirik) while Sherman braved the lack of a floor.
 Both groups found out that the type of work they were looking for was exactly the work a being called Gwindore paid well for. They made their way to Gwindore’s “mansion”. Gwindore, it turned out, was a stunningly good looking Elf dressed head to toe in fine clothing made from yellow canary feathers, a glow emanating from his mouth as he spoke.
 
 Several days ago, Gwindore sponsored - at considerable cost - a team of adventurers heading into the catacombs far above Bone Falls but they had so far failed to reappear. Gwindore was willing to pay the party to go into the catacombs and retrieve the earlier adventurers along with any loot they’d found: 10 keys for each of the party with another 5 keys per adventurer found alive.
+
 A good deal? Maybe. Dangerous? Almost certainly. Profitable? Don’t push it.
 
 **Next session: Into the Catacombs.**
