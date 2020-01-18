@@ -1,33 +1,43 @@
 ---
 title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 2"
-date: 2019-01-30
+date: 2020-01-18
 thumbnail: "campaigns/ten_thousand_worlds/red_moon.jpg"
 categories: ["Role Playing Games"]
-tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
+tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: true
 ---
 
-_There are many mysteries, wonders and dangers in the ***Ten Thousand Worlds***, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead._
+_There are many mysteries, wonders and dangers in the **Ten Thousand Worlds**, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead._
 
 _Welcome to the Ten Thousand Worlds._
 
 ## The Vylk Enclave
 
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
+{{% figure src="../vylk_enclave.png" %}}
 
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
+The **Vylk** are the only (known) alien race in the Ten Thousand Worlds, and the **Vylk Enclave** is a marvel of megastructure engineering. By far the largest of the worlds, and likely one of the oldest, it sits on the outer edge of the system far above the plane of the ecliptic. A Dyson Sphere, built around an artificial sun, orbited by a Ringworld. The Vylk  are thought to live on or in the Dyson Sphere while the Ringworld is home to several human settlements, mostly engaged in a brisk trade in Vylk technology. 
+
+The engineering makes little sense to anyone. The ring is too thin and rotates too quickly to survive under the estimated stress, the gravitational and structural stresses on the sphere are also way above what would be considered normal engineering tolerances. And yet the whole system survives and appears to be extremely resilient. The Vylk, meanwhile, say nothing. 
+
+No one has ever seen a Vylk. Not really. They communicate with others very occasionally, via radio, visual and hologram when they always appear as a slightly “odd” human and are most likely some form of digital construct. In person they are represented either by artificial life forms or human agents. 
+
+Within the 10K they are known for one thing: highly advanced technology, which they hand out - for free or in trade - apparently randomly to anyone who asks for it. They offer no explanation of why they fulfill some requests and not others, or why they ask for nothing in return. Simply go to the Vylk, ask them for something and they may or may not give it to you with no explanation either way. 
 
 ## Takowa Anchorage
 
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
+{{% figure src="../takowa.png" %}}
 
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
+Located on the far edge of the Clotho/Lacesis binary pair in synchronous orbit with Atropos lies **Takowa Anchorage**, a way station for most inbound or outbound traffic for Atropos and Colchis.
+
+
 
 ## The Metasaru Anomaly
 
-After the Vylk Enclave, Metasaru is probably the strangest object in the 10K.
+{{% figure src="../metasaru.png" %}}
 
-Hundreds of years of analysis has shown it to be a singularity - a black hole - roughly the size of Jupiter, but the anomaly is that while it has an event horizon it also has no measurable gravitational field and does not affect any other bodies in the system or ships approaching it, although it does induce gravitational lensing on any light passing by it.
+After the Vylk Enclave, **Metasaru** is probably the strangest object in the 10K.
+
+Hundreds of years of analysis has shown it to be a singularity - a black hole - roughly the size of a gas giant planet, but the anomaly is that while it has an event horizon it also has no measurable gravitational field and does not affect any other bodies in the system or ships approaching it, although it does induce gravitational lensing on any light passing by it.
 
 It's not even possible to orbit it, although there are usually any number of science ships in station-keeping positions near it, so things can get a little crowded.
 
@@ -35,35 +45,6 @@ Still, anything passing through the event horizon has never returned and is assu
 
 ## Vestige Station
 
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
+{{% figure src="../vestige.png" %}}
 
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
-## Phenom
-
-Phenom is a relic from a distant previous age: a Bishop Ring.
-
-## Ignis Colony
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
-## Hemera Colony
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
-## Berangu Passage
-
-Located across the L1 zone between the L4 and L5 points, the Berangu Passage is a gravitationally clear area of space where the radiation and superheated gases are at their least dangerous and, as a result, the area is more navigable.
-
-Although narrow by the standards of open space, the passage is still tens of thousands of kilometers wide.
-Somewhere near the center is Solnos, the home of the Red Moon Confederacy.
-
-## The Braecia Dynasty
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
+Literally the last vestige of the original colony ships left intact in the 10K, **Vestige Station** is a reminder of where the human presence in the system comes from.

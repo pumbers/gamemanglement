@@ -3,7 +3,7 @@ title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 1"
 date: 2019-01-14
 thumbnail: "campaigns/ten_thousand_worlds/hela_station.jpg"
 categories: ["Role Playing Games"]
-tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
+tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
@@ -56,6 +56,6 @@ Search the Testament of Cycles and you'll find bits and pieces. Stories. Maybe e
 
 Although Ibiox may appear to be … well … several things it is not a space station, small moon, or a dimensional gateway. It is, in fact, an artificial intelligence construct powered by a dimensional tear which bleeds zero-point energy into nearby space.
 
-The main structure of Ibiox itself is protected by impenetrable force fields, but the dimensional tear itself is open to surrounding space and is often used by passing ships as a refuelling station. In return, those ships upload their databases to Ibiox, giving the AI an endless supply of new data & experiences.
+The main structure of Ibiox itself is protected by impenetrable force fields, but the dimensional tear itself is open to surrounding space and is often visited by passing ships. In return, those ships upload their databases to Ibiox, giving the AI an endless supply of new data & experiences.
 
 For the most part, Ibiox does not communicate with anyone or anything, so no one knows what it is “thinking”. But occasionally Ibiox will allow a ship to dock and receive visitors. There are rumours concerning what Ibiox talks to these visitors about - chief among them that based on information available, Ibiox is able to predict the future with a terrifying degree of accuracy. But no one knows for sure, because those visitors choose never to speak of their conversation.

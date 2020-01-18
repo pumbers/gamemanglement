@@ -3,7 +3,7 @@ title: "The Ten Thousand Worlds: Technadepts"
 date: 2020-01-18
 thumbnail: "campaigns/ten_thousand_worlds/technadept.png"
 categories: ["Role Playing Games"]
-tags: ["Cypher System", "Monte Cook Games", "Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
+tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
@@ -13,21 +13,19 @@ _This article was originally posted on 18th January 2019 but has been updated fo
 
 {{% figure src="../female_technadept.jpg" caption="Character design by Pascal de Jong" link="https://www.artstation.com/pascalsart" %}}
 
-> We are dreamers, shapers, singers, and makers. We study the mysteries of laser and circuit, crystal and scanner, holographic demons and invocation of equations. These are the tools we employ, and we know many things. The true secrets, the important things. Fourteen words to make someone fall in love with you forever. Seven words to make them go without pain. How to say good-bye to a friend who is dying. How to be poor. How to be rich. How to rediscover dreams when the world has stolen them. - Elric, Babylon 5, The Geometry of Shadows
-
 ## Cypher System
 
 ### Character Type
 
 The *Cypher System* **Adept** character type can be used unchanged from the core rulebook, with the caveat that innate abilities attributed to "magic" must have some form of advanced technology behind them. For example, **Hedge Magic** can be attributed to any number of minor, low-power implants which create holograms or use magnetic force to levitate objects. **Onslaught** is almost certainly a weapon implant of some sort and **Scan** refers to a number of enhanced sensory implants linked to an AI analysis unit connected to the central nervous system.
 
-When a Player chooses an ability for their character, the GM should have them specify *how* the effects are created and roughly what form of technology is involved.
+When a Player chooses an ability for their character, the GM should have them specify *how* the effects are created and roughly what form of technology is involved. This can be highly advanced human tech or even some form of alien tech from Precursor times or previous Cycles.
 
 Stat pools and starting attributes are as described in the *Cypher System Core Rulebook*.
 
 ### Character Descriptor
 
-Any Character Descriptor for Cypher System can be applied to Technadepts in the 10K.
+Any Character Descriptor for *Cypher System* can be applied to Technadepts in the 10K.
 
 ### Character Focus
 
@@ -49,6 +47,10 @@ Siphons Power|Talks to Machines|Thunders
 Travels Through Time|Wears a Sheen of Ice|Works Miracles
 Works the System|Would Rather Be Reading 
 
-### Cyphers
+### Cyphers &amp; Artifacts
 
-Cyphers and Artifacts in the 10K take the same form as in **Numenera**, they are advanced technology akin to magic. Whether Cyphers are man-made and just highly advanced or relics of previous alien occupations of the 10K is up to the GM. Repairing and building Cyphers is possible, just use the crafting rules from Numenera and particularly from **Numenera Destiny** or **Building Tomorrow** where new Cyphers can be constructed from *Iota* - the scrap left behind by alien civilizations.
+Cyphers and Artifacts in the 10K take the same form as in **Numenera**, they are advanced technology akin to magic. Whether Cyphers are man-made and just highly advanced or relics of previous alien occupations of the 10K is up to the GM. Repairing and building Cyphers is possible; just use the crafting rules from Numenera and particularly from [Numenera Destiny](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) or [Building Tomorrow](https://www.montecookgames.com/store/product/building-tomorrow/) where new Cyphers can be constructed from *Iota* - the scrap left behind by alien civilizations.
+
+### Background
+
+In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Technadept lies in 10K society. It's likely they will have been apprenticed to a master or affiliated with a guild or chapter at some point early in their career. Those contacts may still be available to the character or even directing their actions, or the character may now be freelancing and acting counter to guild lore. Their implants will have come from somewhere and may require regular maintenance or upgrades, so contacts there would also be appropriate.

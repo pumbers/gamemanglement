@@ -3,7 +3,7 @@ title: "Welcome to The Ten Thousand Worlds"
 date: 2019-01-07
 thumbnail: "campaigns/ten_thousand_worlds/introduction.jpg"
 categories: ["Role Playing Games"]
-tags: ["Black Hack", "Gold Piece Publications", "Ten Thousand Worlds"]
+tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
@@ -47,7 +47,7 @@ The most overt power in the 10K is held by the descendants of the captains and c
 
 Centuries of conflict and intrigue has left very few of the major houses intact along with a scattering of minor houses, all of whom form and break alliance after alliance and wage both covert and overt war on each other.
 
-Despite this, they remain the greatest example of visible power. Some, like the Vogary and Braecia, occupy ancient construct worlds of immense size from which they have extracted technology that gives them a distinct edge. Others maintain their power through a scattering of colonies and alliances with the Monger Clans and the Guilds.
+Despite this, they remain the greatest example of visible power. Some, like the Vogary and the Braecia, occupy ancient construct worlds of immense size from which they have extracted technology that gives them a distinct edge. Others maintain their power through a scattering of colonies and alliances with the Monger Clans and the Guilds.
 
 None are to be completely trusted.
 
