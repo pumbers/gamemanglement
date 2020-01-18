@@ -37,7 +37,7 @@ Any Character Descriptor for *Cypher System* can be applied to Dynasts in the 10
 
 ### Character Focus
 
-Any Character Focus can be used *if the Player can come up with a suitable explanation for how the effects are generated*, however the following focuses are particularly applicable to Dynasts in the 10K:
+Any Character Focus can be used, however the following focuses are particularly applicable to Dynasts in the 10K:
 
 | **CYPHER SYSTEM RULEBOOK (REVISED)**|||
 |:--|:--|:--|
