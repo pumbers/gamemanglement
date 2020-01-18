@@ -23,6 +23,8 @@ If you want to know anything about the 10K, check the Testament. Just be careful
 
 ## The Relic of Ginmoch
 
+{{% figure src="../ginmoch.png" %}}
+
 Inside an otherwise unremarkable asteroid in the Jaswine Cluster there is a giant chamber which, despite several openings to surrounding space, has a breathable atmosphere. Inside the chamber is a stone construct, hundreds of meters high, said to be the corporeal manifestation of the demon Ginmoch, frozen in time.
 
 The legends of the Vylk, as recorded in the Testament of Cycles, read that in an age when the Ten Thousand Worlds was new and inhabited by many different races, the demon Ginmoch came. Ginmoch, the World Eater, was already known to many of the inhabitants of the Ten Thousand Worlds at that time - indeed, it was the reason many of them fled their home systems.
@@ -49,6 +51,8 @@ There is also a rumour that, somewhere out there, their world still exists and c
 Search the Testament of Cycles and you'll find bits and pieces. Stories. Maybe even some maps or drawings. Now try to piece them all together and you'll see why so few claim to have been there.
 
 ## Ibiox
+
+{{% figure src="../ibiox.png" %}}
 
 Although Ibiox may appear to be … well … several things it is not a space station, small moon, or a dimensional gateway. It is, in fact, an artificial intelligence construct powered by a dimensional tear which bleeds zero-point energy into nearby space.
 

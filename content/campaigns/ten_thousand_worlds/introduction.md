@@ -19,24 +19,23 @@ Old worlds were colonized. New worlds created: utopias, dystopias, empires, alli
 
 All you have to do is survive it.
 
-Welcome to the ***Ten Thousand Worlds***.
+Welcome to the **Ten Thousand Worlds**.
 
 ## The 7818 Lacertae System
 
-On Old Earth, the 10K would have been known as ***7818 Lacertae***. Theories hold that once, millions of years ago, it contained 11 planetary bodies but now has only one, the others having been reduced to rubble by some cataclysmic stellar event ... or maybe just engineering on a planetary scale.
+On Old Earth, the 10K would have been known as **7818 Lacertae**. Theories hold that once, millions of years ago, it contained 11 planetary bodies but now has only one, the others having been reduced to rubble by some cataclysmic stellar event ... or maybe just engineering on a planetary scale.
 
-The system is a trinary (three stars) with the two main stars, ***Clotho*** and ***Lachesis***, a close binary pair, and a distant companion, ***Atropos***.
+The system is a trinary (three stars) with the two main stars, **Clotho** and **Lachesis**, a close binary pair, and a distant companion, **Atropos**.
 
 The orbital mechanics of the binary pair, while complicated, actually result in a simple layout for the system – especially with virtually no planets around to muck things up.
 
 {{% figure src="../lagrange_points.png" caption="Lagrange Points in a Binary System" %}}
 
-The binaries have five gravitationally stable points – called ***Lagrange Points*** – numbered L1 through L5. Points L2 through L5 are mostly free of hazards (other than free-floating asteroids), and this is where the bulk of the colonies are located.  The L1 point, located directly between the binary pair, is a region of intense radition and superheated gas clouds which is even more inhospitable to life than empty space. That’s not to say there are no colonies here though, they’re just really, really well built.
-Between L4 and L5 and across L1 is a “quiet zone” in the gas and radiation which allows relatively safe passge between those two points – an area called the ***Berangu Passage***.
+The binaries have five gravitationally stable points – called **Lagrange Points** – numbered L1 through L5. Points L2 through L5 are mostly free of hazards (other than free-floating asteroids), and this is where the bulk of the colonies are located.  The L1 point, located directly between the binary pair, is a region of intense radiation and superheated gas clouds which is even more inhospitable to life than empty space. That’s not to say there are no colonies here though, they’re just really, really well built. Between L4 and L5 and across L1 is a “quiet zone” in the gas and radiation which allows relatively safe passage between those two points – an area called the **Berangu Passage**.
 
 Finally, the pair are surrounded by a series of asteroid belts which are home to thousands of mining and exploration colonies.
 
-The far companion, Atropos, also has a series of asteroid belts and mining colonies and is orbited by the system’s one remaining planet, the gas giant: ***Hela***. Aside from being somewhat of an anomaly by being the lone planet in the system, Hela is the system’s major source of hydrogen fuel for ships. Gas mining platforms orbit high in the atmosphere with their syphons dropping hundreds of kilometers into the gas-rich lower layers. Transport ships, carrying supercooled super-compressed hydrogen make regular trips between the two parts of the system.
+The far companion, Atropos, also has a series of asteroid belts and mining colonies and is orbited by the system’s one remaining planet, the gas giant: **Colchis**. Aside from being somewhat of an anomaly by being the lone planet in the system, Colchis is the system’s major source of fuel for ships. Gas mining platforms orbit high in the atmosphere with their syphons dropping hundreds of kilometers into the gas-rich lower layers. Transport ships, carrying refined and supercooled helium-3, deuterium and tritium make regular trips between the two parts of the system.
 
 ## Powers & Factions
 
