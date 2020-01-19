@@ -63,7 +63,7 @@ With their foes seemingly defeated, Eirik and Sherman took some time to check th
 
 {{% figure src="../zombies_lots.jpg" %}}
 
-Given that they had accomplished their task as far as they were able, they swiftly decided they had seen enough of this city of the dead and made their way with haste back to the tower entrance. But, as they made it to the large doorway, they again froze in terror - the street outside was filled with dozens of figures, all moving slowly, jerkily, twitching as if in continual excruciating death throes towards the tower, their eyes glowing a that same dull green they had seen above!
+Given that they had accomplished their task as far as they were able, they swiftly decided they had seen enough of this city of the dead and made their way with haste back to the tower entrance. But, as they made it to the large doorway, they again froze in terror - the street outside was filled with dozens of figures, all moving slowly, jerkily, twitching as if in continual excruciating death throes towards the tower, their eyes glowing that same dull green they had seen above!
 
 **Next Session: Escape from the City of the Dead (maybe?)**
 
