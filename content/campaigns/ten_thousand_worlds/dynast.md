@@ -1,5 +1,5 @@
 ---
-title: "The Ten Thousand Worlds: Dynasts"
+title: "Ten Thousand Worlds: Dynasts"
 date: 2020-01-18
 thumbnail: "campaigns/ten_thousand_worlds/dynasts.jpg"
 categories: ["Role Playing Games"]

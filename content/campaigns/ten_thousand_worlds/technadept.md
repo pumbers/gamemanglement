@@ -1,5 +1,5 @@
 ---
-title: "The Ten Thousand Worlds: Technadepts"
+title: "Ten Thousand Worlds: Technadepts"
 date: 2020-01-18
 thumbnail: "campaigns/ten_thousand_worlds/technadept.png"
 categories: ["Role Playing Games"]

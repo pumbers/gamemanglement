@@ -10,6 +10,7 @@
       {{ with .Section }}<li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/">{{ . | upper }}</a></li>{{ end }}
       {{ if .Site.IsServer }}
       <li><i class="fa fa-weight" aria-hidden="true"></i>{{ lang.NumFmt 0 .WordCount }} WORDS</li>
+      <li><i class="fa fa-book-reader" aria-hidden="true"></i>{{ math.Round (div (countwords .Content) 220.0) }} MINS</li>
       {{ if .Draft }}<li style="color: red" ><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i> DRAFT</li>{{ end }}
       {{ end }}
     </ul>
