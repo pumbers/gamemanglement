@@ -13,13 +13,13 @@ _Welcome to the Ten Thousand Worlds._
 
 ## The Testament of Cycles
 
-The Testament of Cycles is, looking at at it simplistically, a book - but quite unlike any other book in existence. Firstly, it is not a physical object (although physical copies of parts of it have been made). It is data - data distributed across hundreds of thousands of exotic storage media maintained by hundreds of races across millennia of time. It is a history of the 10K from its earliest days to the present. It is incomplete, detailed, apocryphal and huge. It can be accessed from most computer networks, although the content and search capabilities will vary greatly.
+The Testament of Cycles is, looking at at it simplistically, a book - but quite unlike any other book in existence. Firstly, it is not a physical object (although physical copies of parts of it have been made). It is data - data distributed across hundreds of thousands of exotic storage media maintained by hundreds of races across millennia of time. It is a history of the Worlds from its earliest days to the present. It is incomplete, detailed, apocryphal and huge. It can be accessed from most computer networks, although the content and search capabilities will vary greatly.
 
-The Testament is spread across computer systems and storage media all over the 10K, with portions of it copied and the whole being added to all the time. There is speculation that many computer systems and individuals feed into the The Teastament to keep it up to date, and certainly it can be accessed from any number of systems. Ships will, as a matter of course, synchronize their copy of the Teatament with a colony’s while docked. 
+The Testament is spread across computer systems and storage media all over the Worlds, with portions of it copied and the whole being added to all the time. There is speculation that many computer systems and individuals feed into the The Teastament to keep it up to date, and certainly it can be accessed from any number of systems. Ships will, as a matter of course, synchronize their copy of the Teatament with a colony’s while docked. 
 
 There is also speculation that it is maintained by Ibiox, since that entity is in the habit of gathering massive amounts of information for no apparent reason. 
 
-If you want to know anything about the 10K, check the Testament. Just be careful about the answer you get - it may not be up to date... or even correct.
+If you want to know anything about the Worlds, check the Testament. Just be careful about the answer you get - it may not be up to date... or even correct.
 
 ## The Relic of Ginmoch
 
@@ -33,7 +33,7 @@ After enumerable battles and the destruction of many worlds (maybe even some of 
 
 ## The Scarlet Cells
 
-Scattered throughout the Kest Belt are tens, possibly hundreds of thousands of asteroids - none more than a few kilometres across - that show as radio anomalies on ship sensors. Each one of them contains vaults, protected by doorways, mechanisms, traps and mazes, with treasures undreamed of... or perhaps nothing.
+Scattered throughout the Kest Belt are tens, possibly hundreds of thousands of asteroids - none more than a few kilometers across - that show as radio anomalies on ship sensors. Each one of them contains vaults, protected by doorways, mechanisms, traps and mazes, with treasures undreamed of... or perhaps nothing.
 The Cells move, along with everything else in the Belt, drifting aimlessly, caroming off one another occasionally.
 
 Mapping them is impossible, which is why whoever built them created the radio anomalies so that they can be found. Of course, the belt is flooded with these radio signals as well as other interference, so sorting any one signal out from the background noise is almost impossible - unless you know its radio signature ahead of time. Each cell has a unique radio signature, and those signatures have been known to sell for thousands of credits. Of course, you'll need to go there to find out if what you have is worth it and going there is not always the best idea.
@@ -44,9 +44,9 @@ Why are they called the Scarlet Cells? What else would you call a place so drenc
 
 ## The Vault of the Perished Priest
 
-There is a rumour, centuries old, of a Priest of the order of The Grey - servants of the Grey King - who, before the King fell, gathered together the remains of that order along with ships, tech and treasure and fled to the farthest reaches of the system, there living their lives in isolation and safety before passing beyond the dark.
+There is a rumor, centuries old, of a Priest of the order of The Grey - servants of the Grey King - who, before the King fell, gathered together the remains of that order along with ships, tech and treasure and fled to the farthest reaches of the system, there living their lives in isolation and safety before passing beyond the dark.
 
-There is also a rumour that, somewhere out there, their world still exists and contains one of the largest troves in the 10K. Some folks talk about it, fewer know more than scant details and a few, a very few say they know where it is or have seen it. No one who has been inside has anything to say 'cos those folks don't come back.
+There is also a rumor that, somewhere out there, their world still exists and contains one of the largest troves in the Worlds. Some folks talk about it, fewer know more than scant details and a few, a very few say they know where it is or have seen it. No one who has been inside has anything to say 'cos those folks don't come back.
 
 Search the Testament of Cycles and you'll find bits and pieces. Stories. Maybe even some maps or drawings. Now try to piece them all together and you'll see why so few claim to have been there.
 
@@ -58,4 +58,4 @@ Although Ibiox may appear to be … well … several things it is not a space st
 
 The main structure of Ibiox itself is protected by impenetrable force fields, but the dimensional tear itself is open to surrounding space and is often visited by passing ships. In return, those ships upload their databases to Ibiox, giving the AI an endless supply of new data & experiences.
 
-For the most part, Ibiox does not communicate with anyone or anything, so no one knows what it is “thinking”. But occasionally Ibiox will allow a ship to dock and receive visitors. There are rumours concerning what Ibiox talks to these visitors about - chief among them that based on information available, Ibiox is able to predict the future with a terrifying degree of accuracy. But no one knows for sure, because those visitors choose never to speak of their conversation.
+For the most part, Ibiox does not communicate with anyone or anything, so no one knows what it is “thinking”. But occasionally Ibiox will allow a ship to dock and receive visitors. There are rumors concerning what Ibiox talks to these visitors about - chief among them that based on information available, Ibiox is able to predict the future with a terrifying degree of accuracy. But no one knows for sure, because those visitors choose never to speak of their conversation.

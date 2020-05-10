@@ -21,23 +21,23 @@ Centuries of conflict and intrigue has left very few of the major houses intact 
 
 None are to be completely trusted.
 
-## Cypher System
-
 ### Character Type
 
-Since being a Dynast is more about background than profession, almost any character type from the core rulebook can be used. Warriors may be the warlords or generals leading their fleets and armies against other dynasties or protecting their own territory; Explorers and Adepts are likely to be the "black sheep" of the family as their inclinations tend to take them beyond known space or outside of polite society. The most appropriate type for a Dynast is, of course, the Speaker, where the emphasis is on leadership, intrigue and political machinations.
+Since being a Dynast is more about background than profession, almost any character type from the core rulebook can be used. **Warriors** may be the warlords or generals leading their fleets and armies against other dynasties, or knights protecting their family's territory; **Explorers** and **Adepts** are likely to be outcasts as their inclinations tend to take them beyond known space or outside of polite society, but they will still have their family's interests in mind.
 
-The *Cypher System* **Speaker** character type can be used unchanged from the core rulebook
+If you want to add a degree of mysticism, dynastic **Adepts** can be treated like shaman, seers or sages, working schemes and machinations in the background, using their peculiar abilities to build their power base far from view.
 
-Stat pools and starting attributes are as described in the *Cypher System Core Rulebook*.
+The most appropriate type for a Dynast is, of course, the Speaker, where the emphasis is on leadership, intrigue and political machinations. The *Cypher System* **Speaker** character type can be used unchanged from the core rulebook
+
+Stat pools and starting attributes are as described in the *Cypher System Rulebook (Revised)*.
 
 ### Character Descriptor
 
-Any Character Descriptor for *Cypher System* can be applied to Dynasts in the 10K.
+Any Character Descriptor for *Cypher System* can be applied to Dynasts in the Worlds.
 
 ### Character Focus
 
-Any Character Focus can be used, however the following focuses are particularly applicable to Dynasts in the 10K:
+Any Character Focus can be used, however the following focuses are particularly applicable to Dynasts in the Worlds:
 
 | **CYPHER SYSTEM RULEBOOK (REVISED)**|||
 |:--|:--|:--|
@@ -56,4 +56,4 @@ Would Rather Be Reading
 
 ### Background
 
-In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Dynast lies in 10K society. They may be a member of one of the great houses, such as Braecia or Vogary (although their access to overwhelming power and technology should be limited), or they may be a member of one of the minor houses constantly vying for support from their peers and rivals.
+In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Dynast lies in society. They may be a member of one of the great houses, such as Braecia or Vogary (although their access to overwhelming power and technology should be limited), or they may be a member of one of the minor houses constantly vying for support from their peers and rivals.

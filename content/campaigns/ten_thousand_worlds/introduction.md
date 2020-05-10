@@ -7,7 +7,7 @@ tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
-_The Ten Thousand Worlds is a (work-in-progress) futuristic science fantasy setting. If you want to get a feel for life in the 10K, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and Farscape and a fair bit of The Expanse._
+_The Ten Thousand Worlds is a (work-in-progress) futuristic science fantasy setting. If you want to get a feel for life in the Worlds, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and Farscape and a fair bit of The Expanse._
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Welcome to the **Ten Thousand Worlds**.
 
 ## The 7818 Lacertae System
 
-On Old Earth, the 10K would have been known as **7818 Lacertae**. Theories hold that once, millions of years ago, it contained 11 planetary bodies but now has only one, the others having been reduced to rubble by some cataclysmic stellar event ... or maybe just engineering on a planetary scale.
+On Old Earth, the Worlds would have been known as **7818 Lacertae**. Theories hold that once, millions of years ago, it contained 11 planetary bodies but now has only one, the others having been reduced to rubble by some cataclysmic stellar event ... or maybe just engineering on a planetary scale.
 
 The system is a trinary (three stars) with the two main stars, **Clotho** and **Lachesis**, a close binary pair, and a distant companion, **Atropos**.
 
@@ -39,11 +39,11 @@ The far companion, Atropos, also has a series of asteroid belts and mining colon
 
 ## Powers & Factions
 
-Life in the 10K is hard, no doubt about it, and is not necessarily made any easier by the roller-coaster of tensions between the three main power-bases:
+Life in the Worlds is hard, no doubt about it, and is not necessarily made any easier by the roller-coaster of tensions between the three main power-bases:
 
 ### The Dynasties
 
-The most overt power in the 10K is held by the descendants of the captains and crew of the great colony ships. Arriving in the 10K, they naturally assumed positions of leadership in and over the established colonies. After a time, they became rich, powerful and paranoid – trusting few outside their own lineage and handing power down only to their descendants.
+The most overt power in the Worlds is held by the descendants of the captains and crew of the great colony ships. Arriving in the Worlds, they naturally assumed positions of leadership in and over the established colonies. After a time, they became rich, powerful and paranoid – trusting few outside their own lineage and handing power down only to their descendants.
 
 Centuries of conflict and intrigue has left very few of the major houses intact along with a scattering of minor houses, all of whom form and break alliance after alliance and wage both covert and overt war on each other.
 
@@ -55,11 +55,11 @@ None are to be completely trusted.
 
 From the outset, free trade between newly established colonies was critical. What one colony did not have could destroy them when they could easily be saved by what another colony produced.
 
-Initially, trade was controlled and protected by the Dynasties and the colonies themselves but as life spread throughout the 10K centralised control became difficult and inefficient. So, the Monger Clans evolved. These “lesser” families and alliances focused only on trade, never owning or managing any colonies but simply on the movement of trade goods – and money – throughout the system.
+Initially, trade was controlled and protected by the Dynasties and the colonies themselves but as life spread throughout the Worlds centralised control became difficult and inefficient. So, the Monger Clans evolved. These “lesser” families and alliances focused only on trade, never owning or managing any colonies but simply on the movement of trade goods – and money – throughout the system.
 
 Like the street gangs of old Earth, they established their “territories” – both physical and commercial – with conflict arising generally only when they stepped outside established boundaries.
 
-The Monger Clans either control, oversee or are aware of most of the ships, travel and trade throughout the 10K. While this rarely brings them to blows with the Guilds (who they rely on for much of the work force), disagreements with the Dynasties are quite common but usually resolved in a way that ensures trade continues unabated.
+The Monger Clans either control, oversee or are aware of most of the ships, travel and trade throughout the Worlds. While this rarely brings them to blows with the Guilds (who they rely on for much of the work force), disagreements with the Dynasties are quite common but usually resolved in a way that ensures trade continues unabated.
 
 ### The Guilds
 

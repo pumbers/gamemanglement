@@ -7,7 +7,7 @@ tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
-_Cybernetics in the 10K are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
+_Cybernetics in the Worlds are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
 
 _This article was originally posted on 18th January 2019 but has been updated for compatibility with the Cypher System Revised Rulebook released in September 2019._
 
@@ -25,11 +25,11 @@ Stat pools and starting attributes are as described in the *Cypher System Core R
 
 ### Character Descriptor
 
-Any Character Descriptor for *Cypher System* can be applied to Technadepts in the 10K.
+Any Character Descriptor for *Cypher System* can be applied to Technadepts in the Worlds.
 
 ### Character Focus
 
-Any Character Focus can be used *if the Player can come up with a suitable explanation for how the effects are generated*, however the following focuses are particularly applicable to Technadepts in the 10K:
+Any Character Focus can be used *if the Player can come up with a suitable explanation for how the effects are generated*, however the following focuses are particularly applicable to Technadepts in the Worlds:
 
 | **CYPHER SYSTEM RULEBOOK (REVISED)**|||
 |:--|:--|:--|
@@ -49,8 +49,8 @@ Works the System|Would Rather Be Reading
 
 ### Cyphers &amp; Artifacts
 
-Cyphers and Artifacts in the 10K take the same form as in **Numenera**, they are advanced technology akin to magic. Whether Cyphers are man-made and just highly advanced or relics of previous alien occupations of the 10K is up to the GM. Repairing and building Cyphers is possible; just use the crafting rules from Numenera and particularly from [Numenera Destiny](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) or [Building Tomorrow](https://www.montecookgames.com/store/product/building-tomorrow/) where new Cyphers can be constructed from *Iota* - the scrap left behind by alien civilizations.
+Cyphers and Artifacts in the Worlds take the same form as in **Numenera**, they are advanced technology akin to magic. Whether Cyphers are man-made and just highly advanced or relics of previous alien occupations of the Worlds is up to the GM. Repairing and building Cyphers is possible; just use the crafting rules from Numenera and particularly from [Numenera Destiny](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) or [Building Tomorrow](https://www.montecookgames.com/store/product/building-tomorrow/) where new Cyphers can be constructed from *Iota* - the scrap left behind by alien civilizations.
 
 ### Background
 
-In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Technadept lies in 10K society. It's likely they will have been apprenticed to a master or affiliated with a guild or chapter at some point early in their career. Those contacts may still be available to the character or even directing their actions, or the character may now be freelancing and acting counter to guild lore. Their implants will have come from somewhere and may require regular maintenance or upgrades, so contacts there would also be appropriate.
+In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Technadept lies in Worlds society. It's likely they will have been apprenticed to a master or affiliated with a guild or chapter at some point early in their career. Those contacts may still be available to the character or even directing their actions, or the character may now be freelancing and acting counter to guild lore. Their implants will have come from somewhere and may require regular maintenance or upgrades, so contacts there would also be appropriate.

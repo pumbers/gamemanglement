@@ -11,34 +11,6 @@ _There are many mysteries, wonders and dangers in the **Ten Thousand Worlds**, s
 
 _Welcome to the Ten Thousand Worlds._
 
-## The Vylk Enclave
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
-## Takowa Anchorage
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
-## The Metasaru Anomaly
-
-After the Vylk Enclave, Metasaru is probably the strangest object in the 10K.
-
-Hundreds of years of analysis has shown it to be a singularity - a black hole - roughly the size of Jupiter, but the anomaly is that while it has an event horizon it also has no measurable gravitational field and does not affect any other bodies in the system or ships approaching it, although it does induce gravitational lensing on any light passing by it.
-
-It's not even possible to orbit it, although there are usually any number of science ships in station-keeping positions near it, so things can get a little crowded.
-
-Still, anything passing through the event horizon has never returned and is assumed destroyed.
-
-## Vestige Station
-
-Donec fringilla ac nunc a sollicitudin. Cras non varius turpis. Integer facilisis metus ex, eu laoreet nibh tempus ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam convallis mattis felis nec mattis. Suspendisse lorem magna, venenatis sed eros sit amet, gravida egestas elit. Ut pellentesque rhoncus accumsan.
-
-Maecenas ut viverra dui, non pellentesque ligula. Mauris tincidunt magna purus, id volutpat massa fringilla nec. Etiam vel lacus lacus. Ut non diam est. In eget est finibus, lobortis libero sit amet, luctus ligula. Donec ante orci, posuere et tincidunt id, rhoncus in mi. Nam at risus tortor.
-
 ## Phenom
 
 Phenom is a relic from a distant previous age: a Bishop Ring.
