@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pumbers.github.io/game-manglement/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Cypher System</title>
       <link>https://pumbers.github.io/game-manglement/tags/cypher-system/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/cypher-system/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Monte Cook Games</title>
       <link>https://pumbers.github.io/game-manglement/tags/monte-cook-games/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/monte-cook-games/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Ten Thousand Worlds</title>
       <link>https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kickstarter</title>
+      <link>https://pumbers.github.io/game-manglement/tags/kickstarter/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/tags/kickstarter/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/tags/the-black-hack-2e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kickstarter</title>
-      <link>https://pumbers.github.io/game-manglement/tags/kickstarter/</link>
-      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/tags/kickstarter/</guid>
       <description></description>
     </item>
     
