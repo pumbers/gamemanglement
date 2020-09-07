@@ -116,12 +116,12 @@ const DIST_DIR = "dist";
 
 function compilePacks() {
   // determine the source folders to process
-  const folders = fs.readdirSync(PACK_SRC).filter(function (file) {
+  const folders = fs.readdirSync(PACK_SRC).filter((file) => {
     return fs.statSync(path.join(PACK_SRC, file)).isDirectory();
   });
 
   // process each folder into a compendium db
-  const packs = folders.map(function (folder) {
+  const packs = folders.map((folder) => {
     const db = new Datastore({ filename: path.resolve(__dirname, BUILD_DIR, "packs", `${folder}.db`), autoload: true });
     return gulp
       .src(path.join(PACK_SRC, folder, "/**/*.yml"))
