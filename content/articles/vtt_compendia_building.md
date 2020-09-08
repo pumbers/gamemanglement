@@ -19,7 +19,7 @@ What I was looking for was a way to quickly create several compendia from easily
 
 If you take a look at a `.db` file in Foundry (check the world folders and you'll see a few), you will see that while they're called *databases* the contents are basically a list of JSON objects. The NodeJS/JavaScript module used to manage these databases is called [NEDB](https://stackabuse.com/nedb-a-lightweight-javascript-database/), which has a MongoDB-like API but manages databases kept in memory or on disk.
 
-So, inspired by some of the chatter on Discord, it occurred that one way of creating compendia outside of Foundry but retain compatibility with Foundry is to use a Gulp script and NEDB to build the compendia from raw data files. The format I chose for the data files was YAML rather than JSON, simply because YAML is a readily parseable, structured format but is easier to manually edit (fewer open and close quotes and no brackets).
+So, inspired by some of the chatter on Discord from **@Spacemandev** and **@Spice_King**, it occurred that one way of creating compendia outside of Foundry but retain compatibility with Foundry is to use a Gulp script and NEDB to build the compendia from raw data files. Although there's heated discussion on the topic, the format I chose for the data files was YAML rather than JSON, simply because YAML is a readily parseable, structured format but is easier to manually edit (fewer open and close quotes and no brackets).
 
 ## Project Structure
 
