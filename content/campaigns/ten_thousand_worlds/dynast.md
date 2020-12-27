@@ -13,13 +13,13 @@ Hundreds of families formed the Great and Lesser Houses of these **Dynasties**, 
 
 They were wrong.
 
-The common uprising saw the destruction of almost all of the Dynasties, the **Braecia Dynasty** being the largest survivor. The **Treaty Of The Highborn** saw the end of the fighting and a peace, of sorts, between the Worlds. The Dynasties still command respect and wield considerable influence but are a shadow of their former selves ... for now.  
+The common uprising saw the destruction of almost all the Dynasties, the **Braecia Dynasty** being the largest survivor. The **Treaty Of The Highborn** saw the end of the fighting and a peace, of sorts, between the Worlds. The Dynasties command respect and wield considerable influence but are a shadow of their former selves... for now.  
 
->"For a thousand years, my family ruled these Worlds. Our fleets were supreme in their might and nothing was beyond our reach. We kept peace with the other Dynasties, we protected what was ours and when necessary we crushed our enemies with ease. We fell, not from power but from grace and we still carry the weight of the Worlds. One day we will rule again." - Dynast Corva Miros ne Dyemour of the Braecia Dynasty
+>"For a thousand years, my family ruled these Worlds. Our fleets were supreme in their might and nothing was beyond our reach. We kept peace with the other Dynasties, we protected what was ours and when necessary we crushed our enemies with ease. We fell, not from power but from grace and we carry the weight of the Worlds. One day we will rule again." - Dynast Corva Miros ne Dyemour of the Braecia Dynasty
 
-Centuries of conflict and intrigue has left very few of the major houses intact along with a multitude of minor houses, all of whom form and break alliance after alliance and wage both covert and overt war on each other. Despite this, they remain the greatest example of visible power. Some, like the **Vogary** and the **Braecia**, occupy ancient construct worlds of immense size from which they have extracted technology that gives them a distinct edge. Others maintain their power through a scattering of colonies and alliances with the Monger Clans and the Guilds.
+Centuries of conflict and intrigue has left few of the major houses intact along with a multitude of minor houses, all of whom form and break alliance after alliance and wage both covert and overt war on each other. Despite this, they remain the greatest example of visible power. Some, like the **Vogary** and the **Braecia**, occupy ancient construct worlds of immense size from which they have extracted technology that gives them a distinct edge. Others maintain their power through a scattering of colonies and alliances with the Monger Clans and the Guilds.
 
-None are to be completely trusted.
+None are to be trusted.
 
 ### Character Type
 
@@ -27,7 +27,7 @@ Since being a Dynast is more about background than profession, almost any charac
 
 If you want to add a degree of mysticism, dynastic **Adepts** can be treated like shaman, seers or sages, working schemes and machinations in the background, using their peculiar abilities to build their power base far from view.
 
-The most appropriate type for a Dynast is, of course, the Speaker, where the emphasis is on leadership, intrigue and political machinations. The *Cypher System* **Speaker** character type can be used unchanged from the core rulebook
+The most appropriate type for a Dynast is the Speaker, where the emphasis is on leadership, intrigue and political machinations. The *Cypher System* **Speaker** character type can be used unchanged from the core rulebook
 
 Stat pools and starting attributes are as described in the *Cypher System Rulebook (Revised)*.
 
@@ -37,7 +37,7 @@ Any Character Descriptor for *Cypher System* can be applied to Dynasts in the Wo
 
 ### Character Focus
 
-Any Character Focus can be used, however the following focuses are particularly applicable to Dynasts in the Worlds:
+Any Character Focus can be used, however the following focuses are applicable to Dynasts in the Worlds:
 
 | **CYPHER SYSTEM RULEBOOK (REVISED)**|||
 |:--|:--|:--|

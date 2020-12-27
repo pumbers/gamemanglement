@@ -41,15 +41,15 @@ After some experimentation, I had a project structure that looked something like
 │       └── portraits
 │   └── packs
 │       └── equipment
-│           └── broadsword.yml
-│           └── mace.yml
-│           └── backpack.yml
+│           └── ranged_weapons.yml
+│           └── armor.yml
+│           └── melee_weapons.yml
 │       └── spells
-│           └── magic_missile.yml
+│           └── attack_spells.yml
 │       └── prayers
 │       └── npcs
 │       └── tables
-│           └── encounters.yml
+│           └── desert_encounters.yml
 ├── build
 ├── dist
 ```
@@ -76,12 +76,18 @@ Compendia must be declared in the `module.json` file `packs` section, like this:
     }
 ```
 
-Each YAML file contains the data for an individual compendium entry. The first few lines (name, type, img) are consistent for all Foundry types; add whatever data is required for your game system's schema under the `data`section - make sure you use the correct YAML indentation though. If you're unsure what that data should look like, just create an item manually then export the data as JSON using the Foundry menus, then run it through a JSON to YAML converter such as https://www.json2yaml.com/.
+Each YAML file contains the data for one or more compendium entries - multiple entries are separated by the YAML `---` separator. The first few lines (name, type, img) are consistent for all Foundry types; add whatever data is required for your game system's schema under the `data`section - make sure you use the correct YAML indentation though. If you're unsure what that data should look like in YAML, create an item manually then export the data as JSON using the Foundry menus, then run it through a JSON to YAML converter such as https://www.json2yaml.com/.
 
 ```yaml
 name: "Broadsword"
 type: weapon
 img: modules/compendia/icons/broadsword.png
+data:
+    ...:
+---
+name: "Dagger"
+type: weapon
+img: modules/compendia/icons/dagger.png
 data:
     ...:
 ```
@@ -95,7 +101,7 @@ And finally, here's the Gulp script used to generate the final module.
 ```javascript
 const gulp = require("gulp");
 const through2 = require("through2");
-const yaml = require("gulp-yaml");
+const yaml = require("js-yaml");
 const Datastore = require("nedb");
 const cb = require("cb");
 const mergeStream = require("merge-stream");
@@ -123,15 +129,13 @@ function compilePacks() {
   // process each folder into a compendium db
   const packs = folders.map((folder) => {
     const db = new Datastore({ filename: path.resolve(__dirname, BUILD_DIR, "packs", `${folder}.db`), autoload: true });
-    return gulp
-      .src(path.join(PACK_SRC, folder, "/**/*.yml"))
-      .pipe(yaml({ space: 0, safe: true, json: true }))
-      .pipe(
-        through2.obj((file, enc, cb) => {
-          db.insert(JSON.parse(file.contents.toString()));
-          cb(null, file);
-        })
-      );
+    return gulp.src(path.join(PACK_SRC, folder, "/**/*.yml")).pipe(
+      through2.obj((file, enc, cb) => {
+        let json = yaml.safeLoadAll(file.contents.toString());
+        db.insert(json);
+        cb(null, file);
+      })
+    );
   });
   return mergeStream.call(null, packs);
 }
@@ -141,7 +145,11 @@ function compilePacks() {
 /* ----------------------------------------- */
 
 function copyFiles() {
-  return gulp.src(STATIC_FILES).pipe(gulp.dest(BUILD_DIR));
+  return gulp
+    .src(STATIC_FILES, {
+      base: "src",
+    })
+    .pipe(gulp.dest(BUILD_DIR));
 }
 
 /* ----------------------------------------- */
@@ -176,14 +184,14 @@ exports.compile = gulp.series(compilePacks);
 exports.copy = gulp.series(copyFiles);
 exports.build = gulp.series(cleanBuild, copyFiles, compilePacks);
 exports.dist = gulp.series(createZip);
-exports.default = gulp.series(watchUpdates);
+exports.default = gulp.series(cleanBuild, copyFiles, compilePacks, watchUpdates);
 ```
 
 ## Development and Distribution Builds
 
 While you're building the module, just type `gulp` at the command line and gulp will watch for any changes to files in the `src` folder and rebuild the compendia on-the-fly. What I generally do is to *symlink* the `build` folder to the `Data/modules` folder in my local Foundry setup, then I can edit and test the contents with a reload of the Foundry app.
 
-If you want to create a distributable archive then use `gulp build` followed by `gulp dist`. The Gulp script will read the module name and version from the `module.json` file and create an appropriately named *zip* archive in the `dist` folder.
+If you want to create a distributable archive then use `gulp build` followed by `gulp dist`. The Gulp script will read the module name and version from the `module.json` file and create an appropriately named & versioned *zip* archive in the `dist` folder.
 
 ## Caveats
 

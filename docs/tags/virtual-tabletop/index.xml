@@ -6,11 +6,7 @@
     <description>Recent content in Virtual Tabletop on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pumbers.github.io/game-manglement/tags/virtual-tabletop/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/tags/virtual-tabletop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Compendia for Foundry VTT</title>
       <link>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</link>
