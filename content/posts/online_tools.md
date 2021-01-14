@@ -4,7 +4,7 @@ date: 2020-07-14
 thumbnail: "posts/online_tools.png"
 categories: ["Role Playing Games","Reviews"]
 tags: ["Kickstarter"]
-draft: false
+draft: true
 ---
 
 _There are any number of tools out there for putting together random dungeons, or a wilderness area, or maps, or monster lists,and so on. But I thought this time out I'd talk a little about the tools I use for game prep and online play._

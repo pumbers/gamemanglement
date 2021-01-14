@@ -17,8 +17,7 @@ _Welcome to the Ten Thousand Worlds._
 
 Located across the L1 zone between the L4 and L5 points, the Berangu Passage is a gravitationally clear area of space where the radiation and superheated gases are at their least dangerous and, as a result, the area is more navigable.
 
-Although narrow by the standards of open space, the passage is still tens of thousands of kilometers wide.
-Somewhere near the center is Solnos, the home of the Red Moon Confederacy.
+Although narrow by the standards of open space, the passage is tens of thousands of kilometers wide. Somewhere near the center is Solnos, the home of the Red Moon Confederacy.
 
 ## Solnos
 

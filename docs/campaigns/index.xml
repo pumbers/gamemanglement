@@ -6,11 +6,7 @@
     <description>Recent content in Campaigns on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pumbers.github.io/game-manglement/campaigns/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/campaigns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 2</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_2/</link>
@@ -37,10 +33,19 @@ The Vylk Enclave   The Vylk are the only (known) alien race in the Ten Thousand 
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</guid>
-      <description>Standing in the doorway of the Alchemist&#39;s Tower, the blood drained from Sherman&#39;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.
-&amp;ldquo;How many?&amp;quot;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.
-&amp;ldquo;Err&amp;hellip; all of &amp;lsquo;em, I think&amp;rdquo;, said Sherman. Eirik&#39;s face went blank with thought.
-&amp;ldquo;Door?&amp;quot;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.</description>
+      <description>Standing in the doorway of the Alchemist&amp;rsquo;s Tower, the blood drained from Sherman&amp;rsquo;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.
+&amp;ldquo;How many?&amp;rdquo;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.
+&amp;ldquo;Err&amp;hellip; all of &amp;lsquo;em, I think&amp;rdquo;, said Sherman. Eirik&amp;rsquo;s face went blank with thought.
+&amp;ldquo;Door?&amp;rdquo;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.</description>
+    </item>
+    
+    <item>
+      <title>Ten Thousand Worlds: Adepts</title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/adept/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/adept/</guid>
+      <description>Cybernetics in the Worlds are pretty common, used to replace damaged or missing limbs or other organs. Adepts, however, take the use of cybernetics and implanted technologies to the next level. Their implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”.</description>
     </item>
     
     <item>
@@ -51,15 +56,6 @@ The Vylk Enclave   The Vylk are the only (known) alien race in the Ten Thousand 
       <guid>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/dynast/</guid>
       <description>Soon after the Influx, the Captains of the great colony ships and the first stations established themselves as absolute rulers of their domains. Power was passed down through their family lines and those of their subordinates, and over the centuries they built great trading empires, fleets and Worlds.
 Hundreds of families formed the Great and Lesser Houses of these Dynasties, with their reach and influence appearing supreme. They felt they had the right and privilege to do anything, to anyone.</description>
-    </item>
-    
-    <item>
-      <title>Ten Thousand Worlds: Technadepts</title>
-      <link>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/technadept/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/technadept/</guid>
-      <description>Cybernetics in the Worlds are pretty common, usually used to replace damaged or missing limbs or other organs. Technadepts, however, take the use of cybernetics and implanted technologies to the next level. Technadept implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”.</description>
     </item>
     
     <item>
@@ -98,7 +94,7 @@ The Testament of Cycles The Testament of Cycles is, looking at at it simplistica
       
       <guid>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/introduction/</guid>
       <description>The Ten Thousand Worlds is a (work-in-progress) futuristic science fantasy setting. If you want to get a feel for life in the Worlds, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and Farscape and a fair bit of The Expanse.
-Introduction Somewhere, in some star system light years away and a long time ago, Earth died.
+Introduction Somewhere, in a star system light years away and a long time ago, Earth died.
 The Human Race, knowing the end was coming, migrated en masse to a new home.</description>
     </item>
     
