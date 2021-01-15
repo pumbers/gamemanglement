@@ -7,7 +7,7 @@ tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
 ---
 
-_Cybernetics in the Worlds are pretty common, used to replace damaged or missing limbs or other organs. Adepts, however, take the use of cybernetics and implanted technologies to the next level. Their implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “spells” or “incantations”._
+_Cybernetics in the Worlds are pretty common, used to replace damaged or missing limbs or other organs. Adepts, however, take the use of cybernetics and implanted technologies to the next level. Their implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “hexes” or “incantations”._
 
 _This article was originally posted on 18th January 2019 but has been updated for compatibility with the Cypher System Revised Rulebook released in September 2019._
 
