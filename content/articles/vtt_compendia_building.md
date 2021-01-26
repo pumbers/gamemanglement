@@ -1,7 +1,7 @@
 ---
 title: "Building Compendia for Foundry VTT"
 date: 2020-09-07
-thumbnail: "articles/compendia_gulpfile.png"
+thumbnail: "articles/vtt_compendia_building.png"
 categories: ["Software"]
 tags: ["Foundry VTT", "Programming", "Virtual Tabletop"]
 draft: false
