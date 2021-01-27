@@ -17,9 +17,11 @@ baseUrl = "https://pumbers.github.io/game-manglement/"
   name = "Paul Umbers"
   description = "Board and tabletop RPG gamer for over 40 years and general mis-manager of my time and effort in writing for RPGs, so here's some thoughts and stuff."
   facebook = "https://www.facebook.com/paul.umbers"
-  twitter = "https://twitter.com/JustPaulU?lang=en"
-  mewe = "https://mewe.com/profile/5bbd11ab2ee15f2bb8b1e7f0"
-  #google = "https://plus.google.com/u/0/+PaulUmbers"
+  discord = "https://discordapp.com/users/352505602041315328/"
+  github = "https://github.com/pumbers"
+  # twitter = "https://twitter.com/JustPaulU?lang=en"
+  # mewe = "https://mewe.com/profile/5bbd11ab2ee15f2bb8b1e7f0"
+  # google = "https://plus.google.com/u/0/+PaulUmbers"
 
 [outputs]
 page = [ "HTML"] # if you want AMP enable.
