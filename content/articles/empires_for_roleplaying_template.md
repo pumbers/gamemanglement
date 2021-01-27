@@ -9,6 +9,12 @@ draft: true
 
 _When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it's own setting (the Third Imperium) that's been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other "universes" are there out there for adventuring, and what RPG systems, if any, suit their particular style of story telling._
 
+## The Polity 
+
+## The Void Trilogy
+
+## Commonwealth Saga
+
 ## Altered Carbon: The United Nations Interstellar Protectorate
 
 ## Dune
