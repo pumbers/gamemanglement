@@ -6,14 +6,27 @@
     <description>Recent content in Articles on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pumbers.github.io/game-manglement/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Star Empires for Roleplaying: The Hyperion Cantos</title>
+      <link>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</guid>
+      <description>When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it&#39;s own setting (the Third Imperium) that&#39;s been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other &amp;ldquo;universes&amp;rdquo; are there out there for adventuring, what kinds of stories might they inspire, and what RPG systems suit their particular style of story telling.</description>
+    </item>
+    
     <item>
       <title>Building Compendia for Foundry VTT</title>
       <link>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</guid>
-      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
+      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&#39;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
     </item>
     
     <item>
@@ -22,7 +35,7 @@
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/articles/sta_sar/</guid>
-      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&amp;rsquo;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
+      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&#39;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
     </item>
     
     <item>

@@ -6,7 +6,20 @@
     <description>Recent content in Tags on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pumbers.github.io/game-manglement/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empires for Roleplaying</title>
+      <link>https://pumbers.github.io/game-manglement/tags/empires-for-roleplaying/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/tags/empires-for-roleplaying/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Foundry VTT</title>
       <link>https://pumbers.github.io/game-manglement/tags/foundry-vtt/</link>
