@@ -4,7 +4,7 @@ date: 2020-01-18
 thumbnail: "campaigns/ten_thousand_worlds/adept.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _‌_
