@@ -6,18 +6,14 @@
     <description>Recent content on Game Manglement</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thousand Year Old Vampire: Session One</title>
-      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/session_01/</link>
+      <title>Thousand Year Old Vampire: Journal of Grimaud de Fremay</title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_journal/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/session_01/</guid>
-      <description>After hearing and reading so much about it, I decided to dive in and try out Thousand Year Old Vampire by Tim Hutchings. In this first session, I&#39;ll document initial character creation and responses to the first few prompts from the book. I have it in my head that I&#39;d like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of Paladin: Warriors of Charlemagne by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I&#39;ll need.</description>
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_journal/</guid>
+      <description>After hearing and reading so much about it, I decided to dive in and try out Thousand Year Old Vampire by Tim Hutchings. In this first session, I&amp;rsquo;ll document initial character creation and responses to the first few prompts from the book. I have it in my head that I&amp;rsquo;d like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of Paladin: Warriors of Charlemagne by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I&amp;rsquo;ll need.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</guid>
-      <description>When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it&#39;s own setting (the Third Imperium) that&#39;s been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other &amp;ldquo;universes&amp;rdquo; are there out there for adventuring, what kinds of stories might they inspire, and what RPG systems suit their particular style of story telling.</description>
+      <description>When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it&amp;rsquo;s own setting (the Third Imperium) that&amp;rsquo;s been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other &amp;ldquo;universes&amp;rdquo; are there out there for adventuring, what kinds of stories might they inspire, and what RPG systems suit their particular style of story telling.</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</guid>
-      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&#39;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
+      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
     </item>
     
     <item>
@@ -73,10 +69,10 @@ The Vylk Enclave   The Vylk are the only (known) alien race in the Ten Thousand 
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</guid>
-      <description>Standing in the doorway of the Alchemist&#39;s Tower, the blood drained from Sherman&#39;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.
-&amp;ldquo;How many?&amp;quot;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.
-&amp;ldquo;Err&amp;hellip; all of &amp;lsquo;em, I think&amp;rdquo;, said Sherman. Eirik&#39;s face went blank with thought.
-&amp;ldquo;Door?&amp;quot;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.</description>
+      <description>Standing in the doorway of the Alchemist&amp;rsquo;s Tower, the blood drained from Sherman&amp;rsquo;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.
+&amp;ldquo;How many?&amp;rdquo;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.
+&amp;ldquo;Err&amp;hellip; all of &amp;lsquo;em, I think&amp;rdquo;, said Sherman. Eirik&amp;rsquo;s face went blank with thought.
+&amp;ldquo;Door?&amp;rdquo;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.</description>
     </item>
     
     <item>
@@ -113,7 +109,7 @@ Hundreds of families formed the Great and Lesser Houses of these Dynasties, with
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</guid>
-      <description>In recent years, we&#39;ve seen a lot of early RPGs, such as Traveller and Runequest, resurrected in new editions with cleaner rules and more modern presentations which, for the most part, have retained the original feel of the game. Chivalry &amp;amp; Sorcery has seen several editions over the years, the last almost 20 years ago in 2000 (not counting the 2011 &amp;ldquo;Essence&amp;rdquo; release which was only 44 pages). Now, following a successful Kickstarter, a new 5th Edition has returned at a whopping 602 pages.</description>
+      <description>In recent years, we&amp;rsquo;ve seen a lot of early RPGs, such as Traveller and Runequest, resurrected in new editions with cleaner rules and more modern presentations which, for the most part, have retained the original feel of the game. Chivalry &amp;amp; Sorcery has seen several editions over the years, the last almost 20 years ago in 2000 (not counting the 2011 &amp;ldquo;Essence&amp;rdquo; release which was only 44 pages). Now, following a successful Kickstarter, a new 5th Edition has returned at a whopping 602 pages.</description>
     </item>
     
     <item>
@@ -131,7 +127,7 @@ Hundreds of families formed the Great and Lesser Houses of these Dynasties, with
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pumbers.github.io/game-manglement/articles/sta_sar/</guid>
-      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&#39;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
+      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&amp;rsquo;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
     </item>
     
     <item>
@@ -172,6 +168,60 @@ The Human Race, knowing the end was coming, migrated en masse to a new home.</de
       
       <guid>https://pumbers.github.io/game-manglement/posts/brass_review/</guid>
       <description>Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_always_leaving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_always_leaving/</guid>
+      <description>Memory: Always Leaving My father tells me that I must redouble my training, and be prepared to take Renier&amp;rsquo;s place in service at Autelbas. Although this may be years away and it is my duty to do so, I do not relish the thought of leaving my home in service to another. I leave home anyway, on my own terms, to find my own destiny. →  I must leave this place before I am found again.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_becoming_undead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_becoming_undead/</guid>
+      <description>Memory: Of Becoming Undead In my wandering, I come across the Black Man, the silhouette of a man without a heart carved out in the granite rock just south of Christnach, and meet Lady Brielle there. She enchants me, and I find myself in her company more often than not; until one morning I awake to find myself branded with devil&amp;rsquo;s marks. I feel I am no longer human, but I know not what I am.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_family/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_family/</guid>
+      <description>Memory: My Family My elder brother, Renier, returns from his service at Autelbas for a brief visit. He goes hunting with my father, but his horse falls and he receives grievous injuries which take him from us a few days later. My father is inconsolable. →  Aelis, my sister, hears that I have returned and finds me at Mainet&amp;rsquo;s a few days later. I tell her of my curse, and instead of fearing or rejecting me she gives me her gold crucifix to wear hoping it will calm the darkness within me, and although I can scarcely bear to touch it I take it from her.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_father/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_father/</guid>
+      <description>Memory: My Father  I am Grimaud, son of Guillaume de Fremay, vassal knight to our lord Duke Thierry of Ardennes in the year of God 767 AD. For my youth, I would hunt with my father in the forests around our manor at Fremay, until one day a very different fate overcame me. →  My father, on my eighteenth birthday, gives me the gift of my first sword. I have trained with many, but this one is mine and I will one day pass it on to my son, as my father&amp;rsquo;s sword will be mine when he passes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_sere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_sere/</guid>
+      <description>Memory: Chase and Escape The forest has been my home for more years than I can count, the animals and people of Fremay and nearby villages my prey for that time, and although I have tried to be careful the rumors of the &amp;ldquo;Branded Man&amp;rdquo; are growing. Lone travelers are too easily spotted, but horse trains have become commonplace for goods transport and I can use that to my advantage. As long as I stay covered and can hold my hunger for a time, I can travel with one of these without suspicion for a new life far from here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_wilderness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_wilderness/</guid>
+      <description>Memory: Wilderness Taking what few belongings I have, I lose myself in the forest where I slake my hunger for fresh blood on the animals there. I write of my family, and their fates, in the margins of Renier&amp;rsquo;s bible finding solace in reliving my time with them and relieving me of some of my shame. →  Out here on the moors there is little cover and concealment, but for some time now I have discovered I can take shelter from the daylight in the marshes and bogs; as with the lake, it is not a pleasant experience but it works well enough and I have no idea who might still be hunting me, so I endure.</description>
     </item>
     
   </channel>
