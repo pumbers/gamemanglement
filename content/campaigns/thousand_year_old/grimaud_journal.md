@@ -44,15 +44,15 @@ I'll record my vampire's experiences as a journal, updated in each session. If y
 
 ### Memories
 
-{{<include grimaud_memory_my_father.md>}}
-{{<include grimaud_memory_wilderness.md>}}
-{{<include grimaud_memory_always_leaving.md>}}
-{{<include grimaud_memory_becoming_undead.md>}}
-{{<include grimaud_memory_sere.md>}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_my_father.md">}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_wilderness.md">}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_always_leaving.md">}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_becoming_undead.md">}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_sere.md">}}
 
 ### Diary - Renier's Bible
 
-{{<include grimaud_memory_my_family.md>}}
+{{<include "campaigns/thousand_year_old/grimaud_memory_my_family.md">}}
 
 ## Analysis and Thoughts
 
