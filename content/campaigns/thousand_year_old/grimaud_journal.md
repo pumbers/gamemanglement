@@ -7,7 +7,7 @@ tags: ["Thousand Year Old Vampire"]
 draft: false
 ---
 
-_After hearing and reading so much about it, I decided to dive in and try out [Thousand Year Old Vampire](https://thousandyearoldvampire.com/) by Tim Hutchings. In this first session, I'll document initial character creation and responses to the first few prompts from the book. I have it in my head that I'd like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of [Paladin: Warriors of Charlemagne](https://www.drivethrurpg.com/product/234701/PALADIN-Warriors-of-Charlemagne) by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I'll need._
+_After hearing and reading so much about it, I decided to dive in and try out [Thousand Year Old Vampire](https://thousandyearoldvampire.com/) by Tim Hutchings. I have it in my head that I'd like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of [Paladin: Warriors of Charlemagne](https://www.drivethrurpg.com/product/234701/PALADIN-Warriors-of-Charlemagne) by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I'll need._
 
 Dark Ages Vampire image by [Z-GrimV on Deviant Art](https://www.deviantart.com/z-grimv/art/Dark-Ages-Vampire-Ventrue-425451115).
 
