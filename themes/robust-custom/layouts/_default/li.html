@@ -14,9 +14,7 @@
         {{ if .Site.IsServer }}
           <li><i class="fa fa-weight" aria-hidden="true"></i>{{ lang.NumFmt 0 .WordCount }} WORDS</li>
           <li><i class="fa fa-book-reader" aria-hidden="true"></i>{{ math.Round (div (countwords .Content) 220.0) }} MINS</li>
-          {{ if .Draft }}
-            <li><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i></li>
-          {{ end }}
+          {{ if .Draft }}<li><i class="fa fa-drafting-compass" style="color: red" aria-hidden="true"></i></li>{{ end }}
         {{ end }}
       </ul>
 
