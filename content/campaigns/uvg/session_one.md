@@ -22,8 +22,8 @@ _This first session of Ultraviolet Grasslands using Cypher System started off we
 
 ## The Story Begins
 
-Afternoon in the **Violet City** is a complicated affair. Like cities of the **Before Times**, the Violet City never sleeps, but its level of wakefulness does change as the day rolls by, in particular when the purple haze of the cocktail hour arrives. The sounds and smells of the city seem somehow more restrained, and the tendencies of some folks tends towards contemplation, siesta and coffee.
+Afternoon in the **Violet City** is a complicated affair. Like cities of the **Before Times**, the Violet City never sleeps, but its level of wakefulness does change as the day rolls by, in particular when the purple haze of the cocktail hour arrives. The sounds and smells of the city seem somehow more restrained, and the tendencies of some folks lean towards contemplation, siesta and coffee.
 
 It is at this time we find our Heroes (capital H), gathering in **The Under-Dog Cafe** in the Charger's Ward of the city. Sure, the city is ruled by the ever-present **Cat Lords**, but that doesn't mean there isn't room for the odd, illicit establishment serving Dog Coffee instead of the ubiquitous Cat Coffee. In this case, the Under-Dog is in this modest commercial district, not far from the **Marut**, an ancient stone colossus of unweathered stone, where local merchants come to make contracts (it is said that anyone who breaks an oath sworn upon the Marut will be slain before the next dawn. Probably not true, but then who would dare find out the hard way).
 
-Outside, as the shadow of **The Shrine of Georguy** (a stone niche enshrining the holy symbol of Georguy, Lord of Protection, said to reveal visions to those who leave an offering) fall across the basement windows of the cafe, our heroes are deep in conversation...
+Outside, as the shadow of **The Shrine of Georguy** (a stone niche enshrining the holy symbol of Georguy, Lord of Protection, said to reveal visions to those who leave an offering) falls across the basement windows of the cafe, our heroes are deep in conversation...
