@@ -1,259 +1,155 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/articles/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/articles/did_star_wars_really_happen/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/movies/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/tags/science-fiction/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/cypher-system/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/ultraviolet-grasslands/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/uvg/session_one/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/articles/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/articles/did_star_wars_really_happen/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/categories/movies/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/science-fiction/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/solo/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/thousand-year-old-vampire/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_journal/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/empires-for-roleplaying/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/foundry-vtt/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/programming/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/software/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/virtual-tabletop/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/monte-cook-games/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_2/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/kickstarter/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/posts/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/reviews/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/posts/wolves_of_god_review/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/downcrawl/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_four/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/the-black-hack-2e/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/adept/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/dynast/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_two/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</loc>
     <lastmod>2019-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/modiphius/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/star-trek-adventures/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/sta_sar/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_1/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/introduction/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/sta_fighters/</loc>
     <lastmod>2018-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/board-games/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/posts/brass_review/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_always_leaving/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_becoming_undead/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_family/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_my_father/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_sere/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_memory_wilderness/</loc>
   </url>
-  
 </urlset>
