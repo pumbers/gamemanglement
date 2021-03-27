@@ -17,6 +17,20 @@ _This first session of Ultraviolet Grasslands using Cypher System started off we
 
 **Pascale** is a lyrical accountant, a number cruncher who specializes in creating poetic ledgers that embody subjective beauty and emotional truth as well as being numerically accurate. Her life is driven by her abacus, which somehow shows a new number at the start of every day, a number which often dictates or at least provides the basis for Pascal's actions that day. Today, Pascale's abacus reads **632**.
 
+## Prolog
+
+In the Grasslands, beyond the **Dead Bridge** somewhere along the **Dark Light Path**, a lone figure walks, hunched over and shrouded in black; it stumbles as if fighting against an unseen wind to move forward. Pausing, the figure reaches into its robes and pulls out an **Oldtech** device. The device glows green and speaks in a soft voice. The figure walks forward again, its progress unhindered.
+
+Later as the sun drops below the purple haze on the horizon, the figure arrives at the mouth of a cave, pausing for a second before walking inside.
+
+Deep within the rock lies a cathedral to the Oldtech gods, at its centre the body of the machine lies dormant, silent, waiting for command. The figure takes out the Oldtech device and speaks to it. The device glows again, **Vomish** runes dancing across its surface as it whispers back in that same soft voice.
+
+"Initiate!" the figure shouts, gesturing with one hand in space as glowing circuits form in the air, and the machine responds with a pulse of energy that throws the figure off its feet, the Oldtech device dies with a whimper. The figure is motionless.
+
+Somewhere else in the grasslands, carved high on sapphire cliffs lies the **Face of the Blue God**. Startled, its eyes snap open.
+
+Aberama Gold wakes in a cold sweat.
+
 ## The Story Begins
 
 Afternoon in the **Violet City** is a complicated affair. Like cities of the **Before Times**, the Violet City never sleeps, but its level of wakefulness does change as the day rolls by, in particular when the purple haze of the cocktail hour arrives. The sounds and smells of the city seem somehow more restrained, and the tendencies of some folks lean towards contemplation, siesta and coffee.
