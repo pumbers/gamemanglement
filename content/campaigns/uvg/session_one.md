@@ -1,5 +1,5 @@
 ---
-title: "Ultraviolet Grasslands: Session One"
+title: "Ultraviolet Grasslands: Session One, The Violet City"
 date: 2021-03-27
 thumbnail: "campaigns/uvg/session_one.jpg"
 categories: ["Role Playing Games"]
@@ -10,6 +10,15 @@ draft: false
 _This first session of Ultraviolet Grasslands using Cypher System started off well enough, after a few weeks of planning and a Session Zero that built the characters, but fell flat when the GM (me) was hit by a power cut and lost all network connectivity other than Discord on my cellphone. But hey, these things are sent to make us stronger. The second session went a little better, so here's the write-up for both._
 
 ## Our Heroes
+
+<table>
+<tr style="background-color:transparent;border:none;">
+<td>{{% figure src="../aberama_gold.jpg" caption="Aberama Gold" %}}</td>
+<td>{{% figure src="../leo.jpg" caption="Leo" %}}</td>
+<td>{{% figure src="../pascale.jpg" caption="Pascale" %}}</td>
+</tr>
+</table>
+
 
 **Aberama Gold** is a Violet City doghead inquisitor. He came to the Violet City some time ago by ship from across the Circle Sea and now works for the noble cats of the Violet Citadel (he knows the cats are the real lords). He wields the power of the Purple Goddess and hunts for doghead insurrectionists in and around the city. Aberama has spent some time out in the Purple Land of the Cat hunting his quarry, but he's recently heard portents of a deadly machine demon who might be able to overthrow his masters.
 
@@ -31,7 +40,7 @@ Somewhere else in the grasslands, carved high on sapphire cliffs lies the **Face
 
 Aberama Gold wakes in a cold sweat.
 
-## The Story Begins
+## The Violet City
 
 Afternoon in the **Violet City** is a complicated affair. Like cities of the **Before Times**, the Violet City never sleeps, but its level of wakefulness does change as the day rolls by, in particular when the purple haze of the cocktail hour arrives. The sounds and smells of the city seem somehow more restrained, and the tendencies of some folks lean towards contemplation, siesta and coffee.
 
